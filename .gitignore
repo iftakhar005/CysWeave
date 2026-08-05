@@ -1,0 +1,33 @@
+# External repository
+dplm/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Model checkpoints
+*.pt
+*.pth
+
+# Generated outputs
+generated*.json
+*.jsonl
+
+# VS Code
+.vscode/
+
+# Generated JSON
+generated.json
+generated_conditioned.json
+partb_results.json
+partb_results.jsonl
+
+# Python cache
+__pycache__/
+
+# Model
+topology_adapter.pt

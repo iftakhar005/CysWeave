@@ -1,0 +1,23 @@
+==========================================================================
+SPLIT  (identity 90%, whole clusters only)
+==========================================================================
+train: 850 sequences
+test : 220 sequences
+rare-topology holdout: 34 sequences
+
+topology                            train  test  test_exp
+--------------------------------------------------------------------------
+[[1, 8], [2, 5], [3, 6], [4, 7]]      467   120        43
+[[1, 5], [2, 4], [3, 6]]              229    58        32
+[[1, 4], [2, 5], [3, 6]]              102    25        18
+[[1, 6], [2, 4], [3, 5]]               52    17         9
+--------------------------------------------------------------------------
+
+test evidence: {'experimental': 61, 'unknown': 4, 'inferred': 114, 'mixed': 41}
+NOTE: report headline accuracy on the EXPERIMENTAL test entries;
+      inferred-by-similarity labels were assigned by homology and
+      are training signal, not ground truth.
+
+train imbalance: largest topology 467, smallest 52 (9.0x)
+  -> OVERSAMPLE the rare topologies during training, or the
+     model will just learn to emit the majority pattern.

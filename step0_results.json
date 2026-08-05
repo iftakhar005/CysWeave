@@ -1,0 +1,3258 @@
+[
+  {
+    "entry": "1FD4_A",
+    "sequence": "GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.61,
+      "[1, 5]": 1.95,
+      "[3, 6]": 2.06
+    }
+  },
+  {
+    "entry": "1B8W_A",
+    "sequence": "FVQHRPRDCESINGVCRHKDTVNCREIFLADCYNDGQKCCRK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 6]": 1.32,
+      "[1, 5]": 2.24,
+      "[2, 4]": 2.32
+    }
+  },
+  {
+    "entry": "1ZUE_A",
+    "sequence": "IFFEMQACWSHSGVCRDKSERNCKPMAWTYCENRNQKCCEY",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 6]": 1.22,
+      "[1, 5]": 2.33,
+      "[2, 4]": 2.52
+    }
+  },
+  {
+    "entry": "1FD3_B",
+    "sequence": "GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.6,
+      "[1, 5]": 1.94,
+      "[3, 6]": 2.03
+    }
+  },
+  {
+    "entry": "1EWS_A",
+    "sequence": "MPCSCKKYCDPWEVIDGSCGLFNSKYICCREK",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": false,
+    "fraction_correct": 0.333,
+    "sg_distances": {
+      "[3, 6]": 1.87,
+      "[2, 4]": 2.06,
+      "[1, 5]": 2.51
+    }
+  },
+  {
+    "entry": "1D6B_A",
+    "sequence": "IMFFEMQACWSHSGVCRDKSERNCKPMAWTYCENRNQKCCEY",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 6]": 1.09,
+      "[1, 5]": 2.32,
+      "[2, 4]": 2.54
+    }
+  },
+  {
+    "entry": "1BNB_A",
+    "sequence": "APLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 6]": 1.87,
+      "[2, 4]": 2.02,
+      "[1, 5]": 2.05
+    }
+  },
+  {
+    "entry": "2K1I_A",
+    "sequence": "RRTCHCRSRCLRRESNSGSCNINGRIFSLCCR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 2.01,
+      "[1, 6]": 2.05,
+      "[3, 5]": 2.26
+    }
+  },
+  {
+    "entry": "1E4T_A",
+    "sequence": "NSKRACYREGGECLQRCIGLFHKIGTCNFRFKCCKFQ",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.78,
+      "[1, 5]": 1.92,
+      "[3, 6]": 2.22
+    }
+  },
+  {
+    "entry": "1KJ6_A",
+    "sequence": "GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.61,
+      "[1, 5]": 1.89,
+      "[3, 6]": 2.07
+    }
+  },
+  {
+    "entry": "1E4R_A",
+    "sequence": "NEPVSCIRNGGICQYRCIGLRHKIGTCGSPFKCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.72,
+      "[1, 5]": 1.85,
+      "[3, 6]": 2.27
+    }
+  },
+  {
+    "entry": "1DFN_A",
+    "sequence": "DCYCRIPACIAGERRYGTCIYQGRLWAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.73,
+      "[3, 5]": 2.21,
+      "[1, 6]": 2.37
+    }
+  },
+  {
+    "entry": "1UT3_A",
+    "sequence": "SFGLCRLRRGFCARGRCRFPSIPIGRCSRFVQCCRRVW",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 2.03,
+      "[1, 5]": 2.07,
+      "[3, 6]": 2.12
+    }
+  },
+  {
+    "entry": "2MN3_A",
+    "sequence": "RRRRRRPPCEDVNGQCQPRGNPCLRLRGACPRGSRCCMPTVAAH",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 6]": 1.73,
+      "[2, 4]": 2.06,
+      "[1, 5]": 2.1
+    }
+  },
+  {
+    "entry": "7LZL_A",
+    "sequence": "GNSWLCVRRGGNCRFGRCQFAERQIGRCSAFQPCCGR",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.8,
+      "[1, 5]": 1.85,
+      "[3, 6]": 2.35
+    }
+  },
+  {
+    "entry": "2RNG_A",
+    "sequence": "NPLIPAIYIGATVGPSVWAYLVALVGAAAVTAANIRRASSDNHSCAGNRGWCRSKCFRHEYVDTYYSAVCGRYFCCRSR",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.84,
+      "[2, 4]": 1.89,
+      "[3, 6]": 2.09
+    }
+  },
+  {
+    "entry": "1IJV_A",
+    "sequence": "DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.71,
+      "[2, 4]": 1.95,
+      "[3, 6]": 2.02
+    }
+  },
+  {
+    "entry": "6KRA_A",
+    "sequence": "RRTCRCRFGRCFRRESYSGSCNINGRIFSLCCR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 2.02,
+      "[1, 6]": 2.04,
+      "[3, 5]": 2.14
+    }
+  },
+  {
+    "entry": "4CQK_A",
+    "sequence": "RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC",
+    "known": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 6]": 1.93,
+      "[1, 8]": 1.93,
+      "[4, 7]": 2.01,
+      "[2, 5]": 2.02
+    }
+  },
+  {
+    "entry": "1TV0_A",
+    "sequence": "GLLCYCRKGHCKRGERVRGTCGIRFLYCCPRR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 6]": 1.49,
+      "[2, 4]": 1.65,
+      "[3, 5]": 2.07
+    }
+  },
+  {
+    "entry": "1FJN_A",
+    "sequence": "GFGCPNNYQCHRHCKSIPGRCGGYCGGWHRLRCTCYRCG",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.64,
+      "[3, 7]": 1.7,
+      "[2, 6]": 1.72,
+      "[4, 8]": 2.11
+    }
+  },
+  {
+    "entry": "1HVZ_A",
+    "sequence": "GFCRCLCRRGVCRCICTR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 4]": 1.66,
+      "[2, 5]": 2.1,
+      "[1, 6]": 2.11
+    }
+  },
+  {
+    "entry": "1ZMH_A",
+    "sequence": "CYCRIPACIAGERRYTCIYQGRLWAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.99,
+      "[3, 5]": 2.15,
+      "[1, 6]": 2.18
+    }
+  },
+  {
+    "entry": "2PM5_A",
+    "sequence": "DCYCRIPACIAGEYGTCIYQGLWAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": false,
+    "fraction_correct": 0.667,
+    "sg_distances": {
+      "[1, 6]": 1.53,
+      "[3, 5]": 2.24
+    }
+  },
+  {
+    "entry": "2PM4_A",
+    "sequence": "DCYCRIPACIAGEKKYGTCIYQGKLWAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.72,
+      "[3, 5]": 2.23,
+      "[1, 6]": 2.41
+    }
+  },
+  {
+    "entry": "5KI9_A",
+    "sequence": "EFELDRICGYGTARCRCRSQEYRIGRCPNTYACCLRWDES",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": false,
+    "fraction_correct": 0.667,
+    "sg_distances": {
+      "[1, 5]": 1.71,
+      "[3, 6]": 2.04
+    }
+  },
+  {
+    "entry": "1ZMQ_A",
+    "sequence": "AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 6]": 1.96,
+      "[3, 5]": 1.98,
+      "[2, 4]": 2.56
+    }
+  },
+  {
+    "entry": "5LCS_A",
+    "sequence": "PFIPRPIDTCRLRNGICFPGICRRPYYWIGTCNNGIGSCCARGWRS",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.64,
+      "[1, 5]": 1.95,
+      "[3, 6]": 2.15
+    }
+  },
+  {
+    "entry": "2NLB_A",
+    "sequence": "DHYACVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.73,
+      "[2, 4]": 1.95,
+      "[3, 6]": 2.03
+    }
+  },
+  {
+    "entry": "2NLC_A",
+    "sequence": "DHYNCVSAGGQCLYSACPIFTKIQGTCYRGKAKCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.75,
+      "[2, 4]": 1.97,
+      "[3, 6]": 2.06
+    }
+  },
+  {
+    "entry": "2NLG_A",
+    "sequence": "DHYNCVSSGGQCLYSACPIFTEIQGTCYRGKAKCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.7,
+      "[2, 4]": 1.96,
+      "[3, 6]": 2.07
+    }
+  },
+  {
+    "entry": "2NLH_A",
+    "sequence": "DHYNCVSSGGQCLYSACPIFTKIAGTCYRGKAKCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.72,
+      "[2, 4]": 1.92,
+      "[3, 6]": 2.06
+    }
+  },
+  {
+    "entry": "2NLP_A",
+    "sequence": "DHYNCVSSGGQCLYSACPIFTKIEGTCYRGKAKCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.72,
+      "[2, 4]": 1.89,
+      "[3, 6]": 2.02
+    }
+  },
+  {
+    "entry": "2MXQ_A",
+    "sequence": "SCTCRRAWICRWGERHSGKCIDQKGSTYRLCCRR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.61,
+      "[3, 5]": 2.1,
+      "[1, 6]": 2.27
+    }
+  },
+  {
+    "entry": "3PSM_A",
+    "sequence": "KTCENLADTFRGPCFTDGSCDDHCKNKEHLIKGRCRDDFRCWCTRNC",
+    "known": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 6]": 1.74,
+      "[4, 7]": 1.78,
+      "[2, 5]": 1.91,
+      "[1, 8]": 1.95
+    }
+  },
+  {
+    "entry": "2PM1_A",
+    "sequence": "ACYCRIPACIAGEYGTCIYQGLWAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": false,
+    "fraction_correct": 0.667,
+    "sg_distances": {
+      "[1, 6]": 1.22,
+      "[3, 5]": 1.45
+    }
+  },
+  {
+    "entry": "5VYP_A",
+    "sequence": "KDCKRESNTFPGICITKPPCRKACIREKFTDGHCSKILRRCLCTKPC",
+    "known": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 6]": 1.9,
+      "[4, 7]": 2.03,
+      "[2, 5]": 2.04,
+      "[1, 8]": 2.09
+    }
+  },
+  {
+    "entry": "5VYP_B",
+    "sequence": "AKDCKRESNTFPGICITKPPCRKACIREKFTDGHCSKILRRCLCTKPC",
+    "known": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 6]": 1.97,
+      "[4, 7]": 1.98,
+      "[2, 5]": 2.07,
+      "[1, 8]": 2.12
+    }
+  },
+  {
+    "entry": "6B55_A",
+    "sequence": "ARECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC",
+    "known": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[4, 7]": 1.94,
+      "[3, 6]": 1.96,
+      "[2, 5]": 2.07,
+      "[1, 8]": 2.09
+    }
+  },
+  {
+    "entry": "5NCE_A",
+    "sequence": "RMCKTPSGKFKGYCVNNTNCKNVCRTEGFPTGSCDFHVAGRKCYCYKPCP",
+    "known": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 6]": 1.85,
+      "[2, 5]": 1.92,
+      "[4, 7]": 1.93,
+      "[1, 8]": 1.95
+    }
+  },
+  {
+    "entry": "1ICA_A",
+    "sequence": "ATCDLLSGTGINHSACAAHCLLRGNRGGYCNGKGVCVCRN",
+    "known": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 4]": 1.52,
+      "[2, 5]": 1.79,
+      "[3, 6]": 2.05
+    }
+  },
+  {
+    "entry": "9E3V_A",
+    "sequence": "GFGCNGPWNEDDLRCHNHCKSIKGYKGGYCAKGGFVCKCY",
+    "known": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 5]": 1.51,
+      "[1, 4]": 1.79,
+      "[3, 6]": 1.85
+    }
+  },
+  {
+    "entry": "9E3W_A",
+    "sequence": "GFGCNGPWNEDDRCHHCSIKGYKGGYCAKGGFVCKCY",
+    "known": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 4]": 1.27,
+      "[2, 5]": 1.64,
+      "[3, 6]": 1.92
+    }
+  },
+  {
+    "entry": "9E3Y_A",
+    "sequence": "GFGCNGWNEDDLRCHNHCKSIPYKGGYCAKGFVCKCY",
+    "known": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 5]": 1.89,
+      "[1, 4]": 1.98,
+      "[3, 6]": 2.04
+    }
+  },
+  {
+    "entry": "3QTE_A",
+    "sequence": "AFTCHCRRSCYSTEYSYGTCTVMGINWRFCCL",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 6]": 1.97,
+      "[3, 5]": 1.97,
+      "[2, 4]": 2.09
+    }
+  },
+  {
+    "entry": "4AB0_A",
+    "sequence": "ECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC",
+    "known": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 6]": 1.92,
+      "[4, 7]": 2.05,
+      "[2, 5]": 2.11,
+      "[1, 8]": 2.45
+    }
+  },
+  {
+    "entry": "4AB0_B",
+    "sequence": "RECKTESNTFPGICIPPCRKACISEKFTDGHCSKILRRCLCTKPC",
+    "known": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 5]": 1.37,
+      "[1, 8]": 1.54,
+      "[3, 6]": 1.81,
+      "[4, 7]": 1.94
+    }
+  },
+  {
+    "entry": "1E4Q_A",
+    "sequence": "PVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.83,
+      "[1, 5]": 1.91,
+      "[3, 6]": 2.07
+    }
+  },
+  {
+    "entry": "2LEW_A",
+    "sequence": "GLLCYCRKGHCKRGGRVRGTCGIRFLYCCPRR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 6]": 1.7,
+      "[2, 4]": 1.83,
+      "[3, 5]": 2.02
+    }
+  },
+  {
+    "entry": "2LEY_A",
+    "sequence": "GLLCYCGKGHCKRGERVRGTCGIRFLYCCPRR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 6]": 1.67,
+      "[3, 5]": 1.99,
+      "[2, 4]": 2.11
+    }
+  },
+  {
+    "entry": "1ZMP_A",
+    "sequence": "ATCYCRTGRCATRESLSGVCEISGRLYRLCCR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 2.05,
+      "[3, 5]": 2.23,
+      "[1, 6]": 2.23
+    }
+  },
+  {
+    "entry": "2NLQ_A",
+    "sequence": "DHYNCVSSGGQCLYSACPIFTKIQGTCYRGAAKCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.7,
+      "[2, 4]": 1.93,
+      "[3, 6]": 2.01
+    }
+  },
+  {
+    "entry": "1ZMM_A",
+    "sequence": "VCSCRLVFCRRTELRVGNCLIGGVSFTYCCT",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 5]": 1.99,
+      "[2, 4]": 2.14,
+      "[1, 6]": 2.19
+    }
+  },
+  {
+    "entry": "1ZMM_B",
+    "sequence": "VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[3, 5]": 2.01,
+      "[2, 4]": 2.09,
+      "[1, 6]": 2.11
+    }
+  },
+  {
+    "entry": "2GWP_A",
+    "sequence": "GLLCYCRKGHCKRGDRVRGTCGIRFLYCCPRR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 6]": 1.59,
+      "[2, 4]": 1.71,
+      "[3, 5]": 1.97
+    }
+  },
+  {
+    "entry": "7T9Q_A",
+    "sequence": "SYYSTLQCRNNHGHCRRLCFHGEQWIGNCNGRHQHCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.83,
+      "[3, 6]": 2.17,
+      "[1, 5]": 2.23
+    }
+  },
+  {
+    "entry": "1N4N_A",
+    "sequence": "ATCKAECPTWDSVCINKKPCVACCKKAKFSDGHCSKILRRCLCTKEC",
+    "known": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        6,
+        9
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 10]": 0.83,
+      "[2, 5]": 1.42,
+      "[4, 8]": 1.88,
+      "[6, 9]": 2.01,
+      "[3, 7]": 2.06
+    }
+  },
+  {
+    "entry": "2B68_A",
+    "sequence": "GFGCPGNQLKCNNHCKSISCRAGYCDAATLWLRCTCTDCNGKK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "predicted": [
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "exact": false,
+    "fraction_correct": 0.75,
+    "sg_distances": {
+      "[4, 8]": 1.85,
+      "[3, 7]": 1.87,
+      "[2, 6]": 1.96
+    }
+  },
+  {
+    "entry": "2LG5_A",
+    "sequence": "LFCKGGSCHFGGCPSHLIKVGSCFGFRSCCKWPWNA",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.74,
+      "[3, 6]": 1.76,
+      "[1, 5]": 2.21
+    }
+  },
+  {
+    "entry": "6MJV_A",
+    "sequence": "KKCWNGGRCRKKCKENEKPIGYCRNGKKCCVN",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.94,
+      "[1, 5]": 2.03,
+      "[3, 6]": 2.11
+    }
+  },
+  {
+    "entry": "3GNY_A",
+    "sequence": "ACYCRIPACIAGERRYGTCIYQGRLWAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.76,
+      "[3, 5]": 2.18,
+      "[1, 6]": 2.43
+    }
+  },
+  {
+    "entry": "4DU0_A",
+    "sequence": "ACYCRIPACIAGERRYATCIYQGRLWAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.83,
+      "[3, 5]": 2.15,
+      "[1, 6]": 2.53
+    }
+  },
+  {
+    "entry": "3I5W_A",
+    "sequence": "ATCYCRTGRCATHESLSGVCEISGRLYRLCCR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 2.04,
+      "[3, 5]": 2.15,
+      "[1, 6]": 2.19
+    }
+  },
+  {
+    "entry": "3LO1_A",
+    "sequence": "ACYCRIPACIAGERRAGTCIYQGRLWAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.77,
+      "[3, 5]": 2.18,
+      "[1, 6]": 2.6
+    }
+  },
+  {
+    "entry": "3LO9_A",
+    "sequence": "ACYCRIPACIAGERRYGTCIYQGRLAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": false,
+    "fraction_correct": 0.333,
+    "sg_distances": {
+      "[1, 5]": 1.64,
+      "[2, 4]": 1.86,
+      "[3, 6]": 2.14
+    }
+  },
+  {
+    "entry": "5CUM_A",
+    "sequence": "ATCYCRTGRCATRESLSGVCEISGRLARLCCR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 2.09,
+      "[3, 5]": 2.17,
+      "[1, 6]": 2.2
+    }
+  },
+  {
+    "entry": "2N2Q_A",
+    "sequence": "DGVKLCDVPSGTWSGHCGSSSKCSQQCKDREHFAYGGACHYQFPSVKCFCKRQC",
+    "known": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 5]": 1.83,
+      "[3, 6]": 1.83,
+      "[1, 8]": 1.87,
+      "[4, 7]": 2.09
+    }
+  },
+  {
+    "entry": "7RC7_A",
+    "sequence": "GLLCYCRKGHCKRGERVRATCGIRFLYCCPRR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 6]": 1.52,
+      "[3, 5]": 2.06,
+      "[2, 4]": 2.1
+    }
+  },
+  {
+    "entry": "7RC8_A",
+    "sequence": "GLLCYCRKGHCKRGERVRTCGIRFLYCCPRR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 6]": 1.44,
+      "[2, 4]": 1.57,
+      "[3, 5]": 2.02
+    }
+  },
+  {
+    "entry": "7YOA_A",
+    "sequence": "DLVCYCRTRGCKRRERMNGTCRKGHLMHTLCCR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.9,
+      "[3, 5]": 2.06,
+      "[1, 6]": 2.09
+    }
+  },
+  {
+    "entry": "4E82_A",
+    "sequence": "ATCYCRTGRCATRESLSGVCISGRLYRLCCR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.77,
+      "[1, 6]": 2.22,
+      "[3, 5]": 2.26
+    }
+  },
+  {
+    "entry": "4E83_A",
+    "sequence": "ATCYCRTGRCATRESLSGVCEISGRLYRCCR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": false,
+    "fraction_correct": 0.333,
+    "sg_distances": {
+      "[1, 5]": 1.68,
+      "[2, 4]": 2.21,
+      "[3, 6]": 2.28
+    }
+  },
+  {
+    "entry": "3H6C_A",
+    "sequence": "ACYCRIPACIAGERRYGTCIYAGRLWAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.73,
+      "[3, 5]": 2.21,
+      "[1, 6]": 2.47
+    }
+  },
+  {
+    "entry": "3LO4_A",
+    "sequence": "ACYCRIPACIAGERRYGTCIYQGALWAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.72,
+      "[3, 5]": 2.2,
+      "[1, 6]": 2.43
+    }
+  },
+  {
+    "entry": "4LB1_A",
+    "sequence": "ACYCRIPACIAGERRAGTCIYQGRLWAACC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.91,
+      "[3, 5]": 2.26,
+      "[1, 6]": 2.27
+    }
+  },
+  {
+    "entry": "4LB7_A",
+    "sequence": "ACYCRIPACIAGERRAGTCAYQGRAWAACC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.88,
+      "[3, 5]": 2.28,
+      "[1, 6]": 2.3
+    }
+  },
+  {
+    "entry": "4LBB_A",
+    "sequence": "ACYCRIPACIAGERRYGTCAYQGRLWAFCC",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 1.71,
+      "[3, 5]": 2.18,
+      "[1, 6]": 2.43
+    }
+  },
+  {
+    "entry": "5CUI_A",
+    "sequence": "ATCYCRTGRCATRESLSGVCEISGRLYALCCR",
+    "known": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[2, 4]": 2.07,
+      "[1, 6]": 2.23,
+      "[3, 5]": 2.26
+    }
+  },
+  {
+    "entry": "2NLD_A",
+    "sequence": "DHYNCVSSGGACLYSACPIFTKIQGTCYRGKAKCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.69,
+      "[2, 4]": 1.87,
+      "[3, 6]": 2.03
+    }
+  },
+  {
+    "entry": "2NLE_A",
+    "sequence": "DHYNCVSSGGQCAYSACPIFTKIQGTCYRGKAKCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.75,
+      "[2, 4]": 1.95,
+      "[3, 6]": 2.08
+    }
+  },
+  {
+    "entry": "2NLF_A",
+    "sequence": "DHYNCVSSGGQCEYSACPIFTKIQGTCYRGKAKCCK",
+    "known": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "predicted": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "exact": true,
+    "fraction_correct": 1.0,
+    "sg_distances": {
+      "[1, 5]": 1.72,
+      "[2, 4]": 2.01,
+      "[3, 6]": 2.04
+    }
+  }
+]

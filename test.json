@@ -1,0 +1,6046 @@
+[
+  {
+    "accession": "A0A7G6KN55",
+    "name": "Beta-defensin 13",
+    "organism": "Crocodylus porosus",
+    "mature_sequence": "NGSYYSTLQCRNNHGHCRRLCFHGEQWIGNCNGRHQHCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "C0HK49",
+    "name": "Defensin NsD7",
+    "organism": "Nicotiana suaveolens",
+    "mature_sequence": "KDCKRESNTFPGICITKPPCRKACIREKFTDGHCSKILRRCLCTKPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q8GTM0",
+    "name": "Flower-specific defensin",
+    "organism": "Nicotiana alata",
+    "mature_sequence": "RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [],
+    "evidence_class": "unknown"
+  },
+  {
+    "accession": "C0HK69",
+    "name": "Beta-toxin Cl13",
+    "organism": "Centruroides limpidus",
+    "mature_sequence": "KEGYLVDYHTGCKYTCAKLGDNDYCVRECRLRYYQSAHGYCYAFACWCTHLYEQAVVWPLPNKRCK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "C0HMA6",
+    "name": "Beta-toxin Cbo4",
+    "organism": "Centruroides bonito",
+    "mature_sequence": "KEGYIVDYHTGCKYTCAKLGDNDYCVRECRLRYYQSAHGYCYAFACWCTHLYEQAVVWPLPNKRCK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "C0HMC6",
+    "name": "Beta-toxin Chirp 9",
+    "organism": "Centruroides hirsutipalpus",
+    "mature_sequence": "KEGYIVDYHTGCKYTCAKLGDNDYCVRECRLRYYQSAHGYCYAFACWCTHLYEAAVVWPLPNKRCK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "O15263",
+    "name": "Defensin beta 4A",
+    "organism": "Homo sapiens",
+    "mature_sequence": "GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q9BDS9",
+    "name": "Defensin beta 4A",
+    "organism": "Macaca mulatta",
+    "mature_sequence": "GIGDPVTCLKNGAICHPVFCPRRYKQIGTCGLPGTKCCKKP",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q9TT12",
+    "name": "Defensin beta 4A",
+    "organism": "Pan troglodytes",
+    "mature_sequence": "GISDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P01484",
+    "name": "Alpha-mammal toxin AaH2",
+    "organism": "Androctonus australis",
+    "mature_sequence": "VKDGYIVDDVNCTYFCGRNAYCNEECTKLKGESGYCQWASPYGNACYCYKLPDHVRTKGPGRCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P01485",
+    "name": "Alpha-mammal toxin Bot3",
+    "organism": "Buthus occitanus tunetanus",
+    "mature_sequence": "VKDGYIVDDRNCTYFCGRNAYCNEECTKLKGESGYCQWASPYGNACYCYKVPDHVRTKGPGRCN",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P59355",
+    "name": "Alpha-mammal toxin Lqh2",
+    "organism": "Leiurus hebraeus",
+    "mature_sequence": "IKDGYIVDDVNCTYFCGRNAYCNEECTKLKGESGYCQWASPYGNACYCYKLPDHVRTKGPGRCR",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "D5HR52",
+    "name": "Alpha-toxin Ac3",
+    "organism": "Androctonus crassicauda",
+    "mature_sequence": "IKDGYIVDDRNCTYFCGRNAYCNEECTKLKGESGYCQWASPYGNACYCYKLPDHVRTKAPGKCN",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P01489",
+    "name": "Alpha-toxin Lqq4",
+    "organism": "Leiurus quinquestriatus quinquestriatus",
+    "mature_sequence": "GVRDAYIADDKNCVYTCGSNSYCNTECTKNGAESGYCQWLGKYGNACWCIKLPDKVPIRIPGKCR",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P84646",
+    "name": "Alpha-toxin OD1",
+    "organism": "Odontobuthus doriae",
+    "mature_sequence": "GVRDAYIADDKNCVYTCASNGYCNTECTKNGAESGYCQWIGRYGNACWCIKLPDEVPIRIPGKCR",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P83644",
+    "name": "Toxin Lqh4",
+    "organism": "Leiurus hebraeus",
+    "mature_sequence": "GVRDAYIADDKNCVYTCGANSYCNTECTKNGAESGYCQWFGKYGNACWCIKLPDKVPIRIPGKCR",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P84614",
+    "name": "Alpha-toxin Bs-Tx28",
+    "organism": "Hottentotta tamulus",
+    "mature_sequence": "GVRDAYIADDKNCVYTCGSNSYCNTECTKNGAESGYCQWFGRWGNGCWCIKLPDKVPIRIPGKCR",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0DJH8",
+    "name": "Alpha-toxin Bu1",
+    "organism": "Buthacus macrocentrus",
+    "mature_sequence": "GVRDAYIADDKNCVYTCAKNSYCNTECTKNGAESGYCQWLGKYGNGCWCIKLPDKVPIRIPGRCR",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P01492",
+    "name": "Toxin CsEv1",
+    "organism": "Centruroides sculpturatus",
+    "mature_sequence": "KEGYLVKKSDGCKYDCFWLGKNEHCDTECKAKNQGGSYGYCYAFACWCEGLPESTPTYPLPNKSCGKK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P01496",
+    "name": "Alpha-mammal toxin Ts3",
+    "organism": "Tityus serrulatus",
+    "mature_sequence": "KKDGYPVEYDNCAYICWNYDNAYCDKLCKDKKADSGYCYWVHILCYCYGLPDSEPTKTNGKCKS",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P0C8X5",
+    "name": "Toxin Tst3",
+    "organism": "Tityus stigmurus",
+    "mature_sequence": "KKDGYPVEYDNCAYICWNYDNAYCDKLCKDKKADSGYCYWAHITCYCYGLPDSEPTKTNGKC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P01531",
+    "name": "Delta-actitoxin-Axm1b",
+    "organism": "Anthopleura xanthogrammica",
+    "mature_sequence": "GVPCLCDSDGPRPRGNTLSGILWFYPSGCPSGWHNCKAHGPNIGWCCKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P08900",
+    "name": "Beta-mammal toxin Css2",
+    "organism": "Centruroides suffusus",
+    "mature_sequence": "KEGYLVSKSTGCKYECLKLGDNDYCLRECKQQYGKSSGGYCYAFACWCTHLYEQAVVWPLPNKTCN",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P56646",
+    "name": "Toxin CsEM1",
+    "organism": "Centruroides sculpturatus",
+    "mature_sequence": "KEGYLVNSYTGCKYECLKLGDNDYCLRECRQQYGKSGGYCYAFACWCTHLYEQAVVWPLPNKTCN",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P09981",
+    "name": "Alpha-like toxin BeM9",
+    "organism": "Mesobuthus eupeus",
+    "mature_sequence": "ARDAYIAKPHNCVYECYNPKGSYCNDLCTENGAESGYCQILGKYGNACWCIQLPDNVPIRIPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P01528",
+    "name": "Delta-actitoxin-Avd1c",
+    "organism": "Anemonia sulcata",
+    "mature_sequence": "GVPCLCDSDGPSVRGNTLSGIIWLAGCPSGWHNCKKHGPTIGWCCKQ",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P10454",
+    "name": "Delta-actitoxin-Afv1b",
+    "organism": "Anthopleura fuscoviridis",
+    "mature_sequence": "GGVPCLCDSDGPSVRGNTLSGIIWLAGCPSGWHNCKAHGPTIGWCCKQ",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P01532",
+    "name": "Delta-actitoxin-Ael1a",
+    "organism": "Anthopleura elegantissima",
+    "mature_sequence": "GVPCLCDSDGPSVRGNTLSGILWLAGCPSGWHNCKAHGPTIGWCCKQ",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0C5F4",
+    "name": "Delta-actitoxin-Aspp1a",
+    "organism": "Anthopleura sp. (strain 'Zhanjiang')",
+    "mature_sequence": "GVPCLCDSDGPSVRGNTLSGTLWLAGCPSGWHNCKAHGPTIGWCCKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0DL52",
+    "name": "Delta-actitoxin-Avd1e 1",
+    "organism": "Anemonia viridis",
+    "mature_sequence": "GIPCLCDSDGPSVRGNTLSGIIWLAGCPSGWHNCKKHGPTIGWCCKQ",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0C1F3",
+    "name": "Delta-actitoxin-Ael1d",
+    "organism": "Anthopleura elegantissima",
+    "mature_sequence": "GVPCLCDSDGPNVRGNTLSGILWLAGCPSGWHNCKAHGPTIGWCCKQ",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0C5F5",
+    "name": "Delta-actitoxin-Aspp1b",
+    "organism": "Anthopleura sp. (strain 'Zhanjiang')",
+    "mature_sequence": "GVPCLCDSDGPSVHGNTLSGTIWLAGCPSGWHNCKAHGPTIGWCCKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P10453",
+    "name": "Delta-actitoxin-Afv1a",
+    "organism": "Anthopleura fuscoviridis",
+    "mature_sequence": "GVACLCDSDGPNVRGNTLSGTIWLAGCPSGWHNCKAHGPTIGWCCKQ",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P13487",
+    "name": "Potassium channel toxin alpha-KTx 1.1",
+    "organism": "Leiurus hebraeus",
+    "mature_sequence": "QFTNVSCTTSKECWSVCQRLHNTSRGKCMNKKCRCYS",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P15226",
+    "name": "Beta-mammal/insect toxin Ts1",
+    "organism": "Tityus serrulatus",
+    "mature_sequence": "KEGYLMDHEGCKLSCFIRPSGYCGRECGIKKGSSGYCAWPACYCYGLPNWVKVWDRATNKC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P0DMM8",
+    "name": "Beta-mammal Tt1g",
+    "organism": "Tityus trivittatus",
+    "mature_sequence": "KEGYLMDHEGCKLSCFIRPSGYCGRECAIKKGSSGYCAWPACYCYGLPNWVKVWERATNRC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0DQH5",
+    "name": "Beta-toxin Tf1a",
+    "organism": "Tityus fasciolatus",
+    "mature_sequence": "KEGYLMDHEGCKLSCFIRPSGYCGSECKIKKGSSGYCAWPACYCYGLPNWVKVWERATNRC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P56612",
+    "name": "Toxin Tst1",
+    "organism": "Tityus stigmurus",
+    "mature_sequence": "GKEGYLMDHEGCKLSCFIRPSGYCGRECTLKKGSSGYCAWPACYCYGLPNWVKVWDRATNKC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P56611",
+    "name": "Toxin Tb1",
+    "organism": "Tityus bahiensis",
+    "mature_sequence": "KEGYLMDHEGCKLSCFIRPSGYCGSECKIKKGSSGYCAWPACYCYGLPNWVKVWDRATNKC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q5G8B8",
+    "name": "Toxin Tco-gamma",
+    "organism": "Tityus costatus",
+    "mature_sequence": "KEGYAMDHEGCKLSCFIRPSGYCGRECGYKKGSSGYCAWPACYCYGLPNWVKVWERATNRC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P17728",
+    "name": "Alpha-insect toxin LqhaIT",
+    "organism": "Leiurus hebraeus",
+    "mature_sequence": "VRDAYIAKNYNCVYECFRDAYCNELCTKNGASSGYCQWAGKYGNACWCYALPDNVPIRVPGKCHRK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P01487",
+    "name": "Alpha-insect toxin Lqq3",
+    "organism": "Leiurus quinquestriatus quinquestriatus",
+    "mature_sequence": "VRDAYIAKNYNCVYECFRDSYCNDLCTKNGASSGYCQWAGKYGNACWCYALPDNVPIRVPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P60257",
+    "name": "Toxin Boma6c",
+    "organism": "Buthus occitanus mardochei",
+    "mature_sequence": "VRDAYIAQNYNCVYTCFKDAHCNDLCTKNGASSGYCQWAGKYGNACWCYALPDNVPIRIPGKCHRK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P28311",
+    "name": "Defensin alpha 4",
+    "organism": "Mus musculus",
+    "mature_sequence": "LRGLLCYCRKGHCKRGERVRGTCGIRFLYCCPRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P29187",
+    "name": "Kappa-stichotoxin-She3a",
+    "organism": "Stichodactyla helianthus",
+    "mature_sequence": "RSCIDTIPKSRCTAFQCKHSMKYRLSFCRKTCGTC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P30230",
+    "name": "Defensin-like protein 2",
+    "organism": "Raphanus sativus",
+    "mature_sequence": "QKLCQRPSGTWSGVCGNNNACKNQCIRLEKARHGSCNYVFPAHKCICYFPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P30224",
+    "name": "Defensin-like protein 13",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "QKLCERPSGTWSGVCGNSNACKNQCINLEKARHGSCNYVFPAHKCICYFPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P69241",
+    "name": "Defensin-like protein 1",
+    "organism": "Raphanus sativus",
+    "mature_sequence": "QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P30232",
+    "name": "Defensin-like protein 2A",
+    "organism": "Sinapis alba",
+    "mature_sequence": "QKLCQRPSGTWSGVCGNNNACRNQCINLEKARHGSCNYVFPAHKCICYFPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "O24332",
+    "name": "Defensin-like protein 3",
+    "organism": "Raphanus sativus",
+    "mature_sequence": "KLCERSSGTWSGVCGNNNACKNQCIRLEGAQHGSCNYVFPAHKCICYFPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q29SA6",
+    "name": "",
+    "organism": "Arabidopsis halleri",
+    "mature_sequence": "QRLCEKPSGTWSGVCGNNGACRNQCIRLEKARHGSCNYVFPAHKCICYFPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0007829"
+    ],
+    "evidence_class": "unknown"
+  },
+  {
+    "accession": "P30832",
+    "name": "Delta-stichotoxin-Hcr1a",
+    "organism": "Radianthus crispa",
+    "mature_sequence": "GNCKCDDEGPYVRTAPLTGYVDLGYCNEGWEKCASYYSPIAECCRKKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P08380",
+    "name": "Delta-stichotoxin-Hmg4b",
+    "organism": "Heteractis magnifica",
+    "mature_sequence": "GNCKCDDEGPNVRTAPLTGYVDLGYCNEGWEKCASYYSPIAECCRKKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P30784",
+    "name": "Delta-stichotoxin-Hcr1c",
+    "organism": "Radianthus crispa",
+    "mature_sequence": "GNCKCDDEGPNVRTAPLTGYVDLGYCNEGWDKCASYYSPIAECCRKKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P30785",
+    "name": "Delta-stichotoxin-Hcr1d",
+    "organism": "Radianthus crispa",
+    "mature_sequence": "GNCKCDDEGPNVRTAPLTGYVDLGYCNEGWEKCASYYSPIAECCRKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P45697",
+    "name": "Alpha-like toxin BmK M1",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "VRDAYIAKPHNCVYECARNEYCNDLCTKNGAKSGYCQWVGKYGNGCWCIELPDNVPIRVPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P58488",
+    "name": "Alpha-like toxin BmK M2",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "VRDAYIAKPHNCVYECARNEYCNNLCTKNGAKSGYCQWSGKYGNGCWCIELPDNVPIRVPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P59360",
+    "name": "Neurotoxin BmK-II",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "VRDAYIAKPHNCVYECARNEYCNDLCTKDGAKSGYCQWVGKYGNGCWCIELPDNVPIRIPGNCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q9GQV6",
+    "name": "Toxin BmKaTx16",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "VRDAYIAKPHNCVYECARNEYCNDLCTKNGAKSGYCQWVGKYGNGCWCKELPDNVPIRVPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P46158",
+    "name": "Gallinacin-2",
+    "organism": "Gallus gallus",
+    "mature_sequence": "LFCKGGSCHFGGCPSHLIKVGSCFGFRSCCKWPWNA",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P59665",
+    "name": "Neutrophil defensin 1",
+    "organism": "Homo sapiens",
+    "mature_sequence": "DIPEVVVSLAWDESLAPKHPGSRKNMACYCRIPACIAGERRYGTCIYQGRLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P59666",
+    "name": "Neutrophil defensin 3",
+    "organism": "Homo sapiens",
+    "mature_sequence": "DIPEVVVSLAWDESLAPKHPGSRKNMDCYCRIPACIAGERRYGTCIYQGRLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [],
+    "evidence_class": "unknown"
+  },
+  {
+    "accession": "P61542",
+    "name": "Pi-actitoxin-Ael2b",
+    "organism": "Anthopleura elegantissima",
+    "mature_sequence": "GTACSCGNSKGIYWFYRPSCPTDRGYTGSCRYFLGTCCTPAD",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P81534",
+    "name": "Beta-defensin 103",
+    "organism": "Homo sapiens",
+    "mature_sequence": "GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q95JD2",
+    "name": "Beta-defensin 103A",
+    "organism": "Pan troglodytes",
+    "mature_sequence": "GIINTLQKYYCRVRGGRCAVLTCLPKEEQIGKCSTRGRKCCRRKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P86408",
+    "name": "Sodium channel neurotoxin MeuNaTxalpha-1",
+    "organism": "Mesobuthus eupeus",
+    "mature_sequence": "VRDGYIADDKNCAYFCGRNAYCDEECKKKGAESGYCQWAGQYGNACWCYKLPDKVPIKVSGKCN",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "D8UWD3",
+    "name": "Sodium channel neurotoxin MeuNaTxalpha-7",
+    "organism": "Mesobuthus eupeus",
+    "mature_sequence": "ARDGYIADDKNCAYFCGRNAYCDEECKKKGAESGYCQWAGQYGNACWCYKLPDKVPIKVSGKCN",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P86471",
+    "name": "Defensin Lucifensin",
+    "organism": "Lucilia sericata",
+    "mature_sequence": "ATCDLLSGTGVKHSACAAHCLLRGNRGGYCNGRAICVCRN",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "B3EWY5",
+    "name": "Lucifensin",
+    "organism": "Lucilia cuprina",
+    "mature_sequence": "ATCDLLSGTGIKHSACAAHCLLRGNRGGYCNGRAICVCRN",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "C0HJX7",
+    "name": "Defensin",
+    "organism": "Calliphora vicina",
+    "mature_sequence": "ATCDLLSGTGANHSACAAHCLLRGNRGGYCNGKAVCVCRN",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P18313",
+    "name": "Sapecin",
+    "organism": "Sarcophaga peregrina",
+    "mature_sequence": "ATCDLLSGTGINHSACAAHCLLRGNRGGYCNGKAVCVCRN",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "Q01523",
+    "name": "Defensin alpha 5",
+    "organism": "Homo sapiens",
+    "mature_sequence": "ESLQERADEATTQKQSGEDNQDLAISFAGNGLSALRTSGSQARATCYCRTGRCATRESLSGVCEISGRLYRLCCR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q5G861",
+    "name": "Defensin alpha 5",
+    "organism": "Pan troglodytes",
+    "mature_sequence": "ESLQERADEATTQKQSGEDNQDLAISFAGNGLSALRTSGSQARATCYCRIGHCTILESLSGVCEISGRLYRLCCR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q01524",
+    "name": "Defensin-6",
+    "organism": "Homo sapiens",
+    "mature_sequence": "AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q26292",
+    "name": "Beta-insect depressant toxin LqhIT2",
+    "organism": "Leiurus hebraeus",
+    "mature_sequence": "DGYIKRRDGCKVACLIGNEGCDKECKAYGGSYGYCWTWGLACWCEGLPDDKTWKSETNTCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P55903",
+    "name": "Beta-insect depressant toxin BotIT4",
+    "organism": "Buthus occitanus tunetanus",
+    "mature_sequence": "DGYIRRRDGCKVSCLFGNEGCDKECKAYGGSYGYCWTWGLACWCEGLPDDKTWKSETNTCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P55904",
+    "name": "Beta-insect depressant toxin BotIT5",
+    "organism": "Buthus occitanus tunetanus",
+    "mature_sequence": "DGYIRKRDGCKVSCLFGNEGCDKECKAYGGSYGYCWTWGLACWCEGLPDDKTWKSETNTCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P68726",
+    "name": "Insect toxin 2-53",
+    "organism": "Leiurus hebraeus",
+    "mature_sequence": "DGYIKRRDGCKVACLVGNEGCDKECKAYGGSYGYCWTWGLACWCEGLPDDKTWKSETNTCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q4VP08",
+    "name": "Protein LURE 1.2",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "TLINGSSDEERTYSFSPTTSPFDPRSLNQELKIGRIGYCFDCARACMRRGKYIRTCSFERKLCRCSISDIK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P0CAY6",
+    "name": "Protein LURE 1.4",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "ILINESSDEQRIYSFSPTTSPFDPRSLNQELKIGRIGYCFDCARACMRRGKYIRTCSFERKLCRCSISDIK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q4VP10",
+    "name": "Protein LURE 1.3",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "ILINESSDEERTYSFSPTTSPFDPRSLNQELKIGRIGYCFDCARACMRRGKYIRTCSFERKLCRCSISGIK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q4VP07",
+    "name": "Protein LURE 1.6",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "ILINESSDEQRIYSFSPTTSPFDPRSLNQELKIGRIGYCFDCARACMRRGKYIRTCSFERKLCRCSISGIK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q53I06",
+    "name": "Fungal defensin plectasin",
+    "organism": "Pseudoplectania nigrella",
+    "mature_sequence": "GFGCNGPWDEDDMQCHNHCKSIKGYKGGYCAKGGFVCKCY",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q9NII7",
+    "name": "Potassium channel toxin alpha-KTx 3.6",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "VGINVKCKHSGQCLKPCKDAGMRFGKCINGKCDCTPK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q9NJC7",
+    "name": "BmK AGP-SYPU2",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "VKDGYIADDRNCPYFCGRNAYCDGECKKNRAESGYCQWASKYGNACWCYKLPDDARIMKPGRCNGG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "Q9PWF3",
+    "name": "Crotamine",
+    "organism": "Crotalus durissus terrificus",
+    "mature_sequence": "YKQCHKKGGHCFPKEKICLPPSSDFGKMDCRWRWKCCKKGSG",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P01476",
+    "name": "Myotoxin-A",
+    "organism": "Crotalus viridis viridis",
+    "mature_sequence": "YKQCHKKGGHCFPKEKICIPPSSDLGKMDCRWKWKCCKKGSG",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P63327",
+    "name": "Crotamine Ile-19",
+    "organism": "Crotalus durissus ruruima",
+    "mature_sequence": "YKQCHKKGGHCFPKEKICIPPSSDFGKMDCRWRWKCCKKGSG",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "O57540",
+    "name": "Crotamine CRO1",
+    "organism": "Crotalus durissus terrificus",
+    "mature_sequence": "YKQCHKKGGHCFPKEKICIPPSSDFGKMDCRWRWKCCKKGSGK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "O73799",
+    "name": "Crotamine CRO3",
+    "organism": "Crotalus durissus terrificus",
+    "mature_sequence": "KQCHKKGGHCFPKEKICIPPSSDFGKMDCRWRWKCCKKGSGK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P24334",
+    "name": "Myotoxin-4",
+    "organism": "Crotalus durissus terrificus",
+    "mature_sequence": "YKQCHKKGGHCFPKEKICIPPSSDFGKMDCRWRWKCCKKRSGK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q9UAC8",
+    "name": "Beta-toxin BmKAs1",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "DNGYLLNKYTGCKIWCVINNESCNSECKLRRGNYGYCYFWKLACYCEGAPKSELWAYETNKCNGKM",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P86406",
+    "name": "MeuNaTxbeta-1",
+    "organism": "Mesobuthus eupeus",
+    "mature_sequence": "DNGYLLDKYTGCKVWCVINNESCNSECKIRRGNYGYCYFWKLACYCEGAPKSELWHYETNKCNGRM",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0C5H3",
+    "name": "Beta-mammal/insect toxin Lqhb1",
+    "organism": "Leiurus hebraeus",
+    "mature_sequence": "DNGYLLNKATGCKVWCVINNASCNSECKLRRGNYGYCYFWKLACYCEGAPKSELWAYATNKCNGKL",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "A0A3G5BIB1",
+    "name": "U-Asilidin(12)-Dg3b",
+    "organism": "Dolopus genitalis",
+    "mature_sequence": "ITCDLIGNERLCVVHCLAKGFRGGWCDSRKVCNCRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "A0A3G5BIB4",
+    "name": "U-Asilidin(12)-Dg3a",
+    "organism": "Dolopus genitalis",
+    "mature_sequence": "ITCDLIGNERLCVLHCLAKGFRGGWCDGRKVCNCRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "A0A3G5BIC2",
+    "name": "U-Asilidin(1)-Dg12",
+    "organism": "Dolopus genitalis",
+    "mature_sequence": "SQEQRQCKKIGEHCYVADECCSKRCLFYAAKCVS",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "A6YB85",
+    "name": "Alpha-defensin 1",
+    "organism": "Equus caballus",
+    "mature_sequence": "ASCTCRRAWICRWGERHSGKCIDQKGSTYRLCCRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "A9XFZ7",
+    "name": "Defensin coprisin",
+    "organism": "Copris tripartitus",
+    "mature_sequence": "VTCDVLSFEAKGIAVNHSACALHCIALRKKGGSCQNGVCVCRN",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "B1B5I9",
+    "name": "Delta-stichotoxin-Shd3a",
+    "organism": "Stichodactyla haddoni",
+    "mature_sequence": "AACKCDDDGPDIRSATLTGTVDFWNCNEGWEKCTAVYTAVASCCRKKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P01534",
+    "name": "Delta-stichotoxin-Hmg4a",
+    "organism": "Heteractis magnifica",
+    "mature_sequence": "ASCKCDDDGPDVRSATFTGTVDFWNCNEGWEKCTAVYTPVASCCRKKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "B7FDP2",
+    "name": "Toxin Css39.8",
+    "organism": "Centruroides suffusus",
+    "mature_sequence": "KEGYLVNKSTGCKYGCLLLGKNEGCDKECKAKNQGGSYGYCYAFGCWCEGLPESTPTYPLPNKSCS",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P01493",
+    "name": "Toxin CsEv2",
+    "organism": "Centruroides sculpturatus",
+    "mature_sequence": "KEGYLVNKSTGCKYGCLKLGENEGCDKECKAKNQGGSYGYCYAFACWCEGLPESTPTYPLPNKSCSRK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P01494",
+    "name": "Toxin CsEv3",
+    "organism": "Centruroides sculpturatus",
+    "mature_sequence": "KEGYLVNKSTGCKYGCLKLGENEGCDKECKAKNQGGSYGYCYAFACWCEGLPESTPTYPLPNKSCGKK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P45664",
+    "name": "Toxin CngtIII",
+    "organism": "Centruroides noxius",
+    "mature_sequence": "KEGYLVNKSTGCKYGCFWLGKNEGCDKECKAKNQGGSYGYCYAFGCWCEGLPESTPTYPLPNKTCSKK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "B7XFT1",
+    "name": "Defensin-1",
+    "organism": "Ixodes persulcatus",
+    "mature_sequence": "GFGCPFNQGACHRHCRSIGRRGGYCAGLFKQTCTCYSR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P56686",
+    "name": "4 kDa defensin",
+    "organism": "Androctonus australis",
+    "mature_sequence": "GFGCPFNQGACHRHCRSIRRRGGYCAGLFKQTCTCYR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "C0HM16",
+    "name": "Beta-toxin Chui3",
+    "organism": "Centruroides huichol",
+    "mature_sequence": "KEGYLVELGTGCKYECFKLGDNDYCLRECKARYGKGAGGYCYAFGCWCTQLYEQAVVWPLKNKTCR",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "C0HM17",
+    "name": "Beta-toxin Chui4",
+    "organism": "Centruroides huichol",
+    "mature_sequence": "KEGYLVELGTGCKYECFKLGDNDYCLRECKAKYGKGAGGYCYAFGCWCTHLYEQAVVWPLKNKTCK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "E7D082",
+    "name": "Sodium channel neurotoxin MeuNaTxalpha-5*",
+    "organism": "Mesobuthus eupeus",
+    "mature_sequence": "ARDAYIAKPHNCVYECFDAFSSYCNGVCTKNGAKSGYCQILGTYGNGCWCIALPDNVPIRIPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P86404",
+    "name": "Sodium channel neurotoxin MeuNaTxalpha-4",
+    "organism": "Mesobuthus eupeus",
+    "mature_sequence": "ARDAYIAKPHNCVYECFDAFSSYCNGVCTKNGAKSGYCQILGTYGNGCWCIVLPDNVPIRIPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "E7CZY9",
+    "name": "Sodium channel neurotoxin MeuNaTxalpha-6",
+    "organism": "Mesobuthus eupeus",
+    "mature_sequence": "ARDAYIAKPHNCVYECFDAFSSYCNGVCTKNGAKSGYCQILGTYGNGCWCIALPGNVPIRIPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "E7CZZ0",
+    "name": "Sodium channel neurotoxin MeuNaTxalpha-11",
+    "organism": "Mesobuthus eupeus",
+    "mature_sequence": "ARDAYIAKPHNCVYECFDAFSSYCNGVCTKNGAKSGYCLILGTYGNGCWCIALPDNVPIRIPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "G4WFQ2",
+    "name": "Sodium channel neurotoxin MeuNaTxalpha-13",
+    "organism": "Mesobuthus eupeus",
+    "mature_sequence": "ARDAYIAKPHNCVYECFDAFSSYCNDLCTENGAKSGYCQIAGKYGNGCWCIELPDNVPIRIPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "D8UWD5",
+    "name": "Sodium channel neurotoxin MeuNaTxalpha-8",
+    "organism": "Mesobuthus eupeus",
+    "mature_sequence": "ARDGYIAKPHNCVYECFGAFSSYCNGVCTKNGAKSGYCQILGTYGNGCWCIALPDNVPIRIPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "D8UWD6",
+    "name": "Sodium channel neurotoxin MeuNaTxalpha-10",
+    "organism": "Mesobuthus eupeus",
+    "mature_sequence": "ARDGYIAKPHNCVYECFDAFSSYCNGVCTKNGAKSGYCQILGIYGNGCWCIALPDNVPIRIPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P01483",
+    "name": "Neurotoxin Bot2",
+    "organism": "Buthus occitanus tunetanus",
+    "mature_sequence": "GRDAYIAQPENCVYECAKNSYCNDLCTKNGAKSGYCQWLGRWGNACYCIDLPDKVPIRIEGKCHF",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P59896",
+    "name": "Toxin BomPI",
+    "organism": "Buthus occitanus mardochei",
+    "mature_sequence": "GRDAYIAQPENCVYECAKSSYCNDLCTKNGAKSGYCQWLGRWGNACYCIDLPDKVPIRIEGKCHFA",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P01491",
+    "name": "Beta-toxin CsEI",
+    "organism": "Centruroides sculpturatus",
+    "mature_sequence": "KDGYLVEKTGCKKTCYKLGENDFCNRECKWKHIGGSYGYCYGFGCYCEGLPDSTQTWPLPNKTCGKK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P01495",
+    "name": "Beta-mammal toxin Cn2",
+    "organism": "Centruroides noxius",
+    "mature_sequence": "KEGYLVDKNTGCKYECLKLGDNDYCLRECKQQYGKGAGGYCYAFACWCTHLYEQAIVWPLPNKRCS",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P0C280",
+    "name": "Delta-actitoxin-Cgg1a",
+    "organism": "Condylactis gigantea",
+    "mature_sequence": "GVPCRCDSDGPSVHGNTLSGTVWVGSCASGWHKCNDEYNIAYECCKE",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P0CH42",
+    "name": "Delta-actitoxin-Cgg1b",
+    "organism": "Condylactis gigantea",
+    "mature_sequence": "GVPCRCDSDGPSVHGNTLSGTVWVGSCASGWHKCNTEHNIFHECCKE",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0DMX9",
+    "name": "Kappa-actitoxin-Avd4e",
+    "organism": "Anemonia viridis",
+    "mature_sequence": "AAPCFCSGKPGRGDLWIFRGTCPGGYGYTSNCYKWPNICCYPH",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P11494",
+    "name": "Delta/kappa-actitoxin-Avd4a",
+    "organism": "Anemonia sulcata",
+    "mature_sequence": "AAPCFCSGKPGRGDLWILRGTCPGGYGYTSNCYKWPNICCYPH",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P0DMX8",
+    "name": "Kappa-actitoxin-Avd4d",
+    "organism": "Anemonia viridis",
+    "mature_sequence": "AAICFCPGKPDRGDLWIFRGTCPGGYGYTSNCYKWPNICCYPH",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0DMY1",
+    "name": "Kappa-actitoxin-Avd4g",
+    "organism": "Anemonia viridis",
+    "mature_sequence": "AAPCFCSGKPGRGDLWILRGDCPGGYGYTSNCYKWPNICCYPH",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0DQN6",
+    "name": "Kappa-actitoxin-Avd4p",
+    "organism": "Anemonia viridis",
+    "mature_sequence": "AAPCSCPGKPGRGDLWIFRGTCPGGYGYTSNCYKWPNICCYPH",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0DQN8",
+    "name": "Delta-buthitoxin-Hj1a",
+    "organism": "Hottentotta judaicus",
+    "mature_sequence": "EEVRDAYIAQPHNCVYHCFRDSYCNDLCIKHGAESGECKWFTSSGNACWCVKLPKSEPIKVPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P0DRB0",
+    "name": "Ct-IT1",
+    "organism": "Centruroides tecomanus",
+    "mature_sequence": "KDGYPMNSEGCKISCVIGNTFCDTECKMLKASSGYCWTLGLACYCEGLPENVEVWDKATNKCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0DUH9",
+    "name": "Beta-toxin Ct7",
+    "organism": "Centruroides tecomanus",
+    "mature_sequence": "KDGYPMNSEGCKISCVIGNTFCDTECKMLKASSGYCWTLGLACYCEGLPENVEVWDSATNKCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0DUI3",
+    "name": "Beta-toxin Ct25",
+    "organism": "Centruroides tecomanus",
+    "mature_sequence": "KDGYPKNSEGCKISCVIGNTFCDTECKMLKASSGYCWTLGLACYCEGLPENVEVWDSATNKCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P15228",
+    "name": "Toxin BmKAEP",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "DGYIRGSNGCKVSCLLGNEGCNKECRAYGASYGYCWTWKLACWCQGLPDDKTWKSESNTCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q9XY87",
+    "name": "Beta-insect depressant toxin BmKITa",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "DGYIRGSNGCKVSCLWGNEGCNKECRAYGASYGYCWTWGLACWCQGLPDDKTWKSESNTCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q17231",
+    "name": "Toxin BmKIT3",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "DGYIRGSNGCKVSCLWGNEGCNKECRAYGASYGYCWTWGLACWCEGLPDDKTWKSESNTC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q8T3T0",
+    "name": "Depressant insect toxin BmK ITa1",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "DGYIRGSNGCKVSCLWGNEGCNKECGAYGASYGYCWTWGLACWCEGLPDDKTWKSESNTCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P17722",
+    "name": "Defensin-1",
+    "organism": "Apis mellifera",
+    "mature_sequence": "VTCDLLSFKGQVNDSACAANCLSLGKAGGHCEKGVCICRKTSFKDLWDKRF",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P19651",
+    "name": "Delta-stichotoxin-She1a",
+    "organism": "Stichodactyla helianthus",
+    "mature_sequence": "AACKCDDEGPDIRTAPLTGTVDLGSCNAGWEKCASYYTIIADCCRKKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P58328",
+    "name": "Alpha-like toxin BmK-M4",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "VRDAYIAKPENCVYHCAGNEGCNKLCTDNGAESGYCQWGGRYGNACWCIKLPDDVPIRVPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q9N682",
+    "name": "Neurotoxin BmK-M11",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "VRDAYIAKPENCVYHCATNEGCNKLCTDNGAESGYCQWGGKYGNACWCIKLPDDVPIRVPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P58910",
+    "name": "Kurtoxin",
+    "organism": "Parabuthus transvaalicus",
+    "mature_sequence": "KIDGYPVDYWNCKRICWYNNKYCNDLCKGLKADSGYCWGWTLSCYCQGLPDNARIKRSGRCRA",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P0C5F0",
+    "name": "Kurtoxin-like I",
+    "organism": "Parabuthus granulatus",
+    "mature_sequence": "KIDGYPVDNWNCKRICWYNNKYCYDLCKGLKADSGYCWGWTLSCYCEGLPDNARIKRGGRCN",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P60030",
+    "name": "Neutrophil defensin 1",
+    "organism": "Macaca mulatta",
+    "mature_sequence": "ACYCRIPACLAGERRYGTCFYLGRVWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P60031",
+    "name": "Neutrophil defensin 3",
+    "organism": "Macaca mulatta",
+    "mature_sequence": "ACYCRIPACLAGERRYGTCFYRRRVWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P60032",
+    "name": "Neutrophil defensin 8",
+    "organism": "Macaca mulatta",
+    "mature_sequence": "ACYCRIPACLAGERRYGTCFYLRRVWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P82317",
+    "name": "Neutrophil defensin 2",
+    "organism": "Macaca mulatta",
+    "mature_sequence": "ACYCRIPACLAGERRYGTCFYMGRVWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P86724",
+    "name": "Alpha-defensin PhD-4",
+    "organism": "Papio hamadryas",
+    "mature_sequence": "ACYCRIPACFAGERRYGTCFYLGRVWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q5G863",
+    "name": "Neutrophil defensin 1",
+    "organism": "Pan troglodytes",
+    "mature_sequence": "ACYCRIPACLAGERRYGTCIYQGRLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P61541",
+    "name": "Kappa-actitoxin-Ael2a",
+    "organism": "Anthopleura elegantissima",
+    "mature_sequence": "GTTCYCGKTIGIYWFGTKTCPSNRGYTGSCGYFLGICCYPVD",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "B3EWF9",
+    "name": "Delta-actitoxin-Ael2d",
+    "organism": "Anthopleura elegantissima",
+    "mature_sequence": "GTPCYCGKTIGIYWFGTKTCPSNRGYTGSCGYFLGICCYPVD",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0DMX5",
+    "name": "U-actitoxin-Ael2c",
+    "organism": "Anthopleura elegantissima",
+    "mature_sequence": "GTTCYCGNTIGIYWFAKKTCPSGRGYTGSCGYFLGICCYPVD",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P80957",
+    "name": "Big defensin",
+    "organism": "Tachypleus tridentatus",
+    "mature_sequence": "NPLIPAIYIGATVGPSVWAYLVALVGAAAVTAANIRRASSDNHSCAGNRGWCRSKCFRHEYVDTYYSAVCGRYFCCRSR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P82140",
+    "name": "Defensin-like peptide 2/4",
+    "organism": "Ornithorhynchus anatinus",
+    "mature_sequence": "IMFFEMQACWSHSGVCRDKSERNCKPMAWTYCENRNQKCCEY",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P83429",
+    "name": "Spheniscin-1",
+    "organism": "Aptenodytes patagonicus",
+    "mature_sequence": "SFGLCRLRRGFCAHGRCRFPSIPIGRCSRFVQCCRRVW",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P83430",
+    "name": "Spheniscin-2",
+    "organism": "Aptenodytes patagonicus",
+    "mature_sequence": "SFGLCRLRRGFCARGRCRFPSIPIGRCSRFVQCCRRVW",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P84156",
+    "name": "Defensin ARD1",
+    "organism": "Archaeoprepona demophon",
+    "mature_sequence": "DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P85215",
+    "name": "Defensin-like peptide",
+    "organism": "Galleria mellonella",
+    "mature_sequence": "DKLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFWNVNCWCEE",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P81544",
+    "name": "Defensin heliomicin",
+    "organism": "Heliothis virescens",
+    "mature_sequence": "DKLIGSCVWGAVNYTSDCNGECKRRGYKGGHCGSFANVNCWCET",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [],
+    "evidence_class": "unknown"
+  },
+  {
+    "accession": "P84920",
+    "name": "Defensin-like protein 2",
+    "organism": "Vigna unguiculata",
+    "mature_sequence": "KTCMTKKEGWGRCLIDTTCAHSCRKYGYMGGKCQGITRRCYCLLNC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P86253",
+    "name": "Beta-defensin 1",
+    "organism": "Emys orbicularis",
+    "mature_sequence": "YDLSKNCRLRGGICYIGKCPRRFFRSGSCSRGNVCCLRFG",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q17027",
+    "name": "Defensin",
+    "organism": "Anopheles gambiae",
+    "mature_sequence": "ATCDLASGFGVGSSLCAAHCIARRYRGGYCNSKAVCVCRN",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "Q42328",
+    "name": "Defensin-like protein 195",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "QGNECLKEYGGDVGFGFCAPRIFPTICYTRCRENKGAKGGRCRWGQGSNVKCLCDFCDDTPQ",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q91V82",
+    "name": "Beta-defensin 8",
+    "organism": "Mus musculus",
+    "mature_sequence": "NEPVSCIRNGGICQYRCIGLRHKIGTCGSPFKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "A0A059J5P2",
+    "name": "Fungal defensin triintsin",
+    "organism": "Trichophyton interdigitale (strain MR816)",
+    "mature_sequence": "GFGCPLNERECHSHCQSIGRKFGYCGGTLRLTCICGKE",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250",
+      "ECO:0000305"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "A0A0X1KGZ5",
+    "name": "Alpha-amylase inhibitor helianthamide",
+    "organism": "Stichodactyla helianthus",
+    "mature_sequence": "ESGNSCYIYHGVSGICKASCAEDEKAMAGMGVCEGHLCCYKTPW",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P01486",
+    "name": "Alpha-toxin Bot11",
+    "organism": "Buthus occitanus tunetanus",
+    "mature_sequence": "LKDGYIVDDRNCTYFCGTNAYCNEECVKLKGESGYCQWVGRYGNACWCYKLPDHVRTVQAGRCRS",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P01530",
+    "name": "Delta-actitoxin-Axm1a",
+    "organism": "Anthopleura xanthogrammica",
+    "mature_sequence": "GVSCLCDSDGPSVRGNTLSGTLWLYPSGCPSGWHNCKAHGPTIGWCCKQ",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P0C5G3",
+    "name": "Delta-actitoxin-Axm1h",
+    "organism": "Anthopleura xanthogrammica",
+    "mature_sequence": "GVSCLCDSDGPSVRGNTLSGILWFYPSGCPSGWHNCKAHGPTIGWCCKQ",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P01533",
+    "name": "Delta-actitoxin-Avd1a",
+    "organism": "Anemonia sulcata",
+    "mature_sequence": "GAACLCKSDGPNTRGNSMSGTIWVFGCPSGWNNCEGRAIIGYCCKQ",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P0DMZ1",
+    "name": "Delta-actitoxin-Avd1h",
+    "organism": "Anemonia viridis",
+    "mature_sequence": "GAPCLCKSDGPNTRGNSMSGTIWVFGCPSGWNDCEGRAIIGYCCKQ",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P0C8B1",
+    "name": "Venom-like beta-defensin",
+    "organism": "Ornithorhynchus anatinus",
+    "mature_sequence": "RRRRRRPPCEDVNGQCQPRGNPCLRLRGACPRGSRCCMPTVAAH",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P31530",
+    "name": "Sapecin-C",
+    "organism": "Sarcophaga peregrina",
+    "mature_sequence": "ATCDLLSGIGVQHSACALHCVFRGNRGGYCTGKGICVCRN",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P32026",
+    "name": "Defensin-like protein",
+    "organism": "Nicotiana tabacum",
+    "mature_sequence": "RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKLLRRCLCTKPCVFDEKMIKTGAETLVEEAKTLAAALLEEEIMDN",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P45667",
+    "name": "Toxin Cll1",
+    "organism": "Centruroides limpidus",
+    "mature_sequence": "KEGYLVNKSTGCKYGCFWLGKNENCDKECKAKNQGGSYGYCYSFACWCEGLPESTPTYPLPNKSCS",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q68PG9",
+    "name": "Neurotoxin Cex6",
+    "organism": "Centruroides exilicauda",
+    "mature_sequence": "REGYLVNKSTGCKYECFWLGKNEFCDKECKAKNQGGSYGYCYSFACWCEGLPESTSTYPLPNKSC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q68PH1",
+    "name": "Neurotoxin Cex4",
+    "organism": "Centruroides exilicauda",
+    "mature_sequence": "KEGYLVNKSTGCKYECFWLGKNEFCDKECKAKNQGGSYGYCYSFACWCEGLPESTSTYPLPNKSC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q68PH2",
+    "name": "Neurotoxin Cex3",
+    "organism": "Centruroides exilicauda",
+    "mature_sequence": "KDGYLVNKSTGCKYECFWLGKNEFCDKECKAKNQGGSYGYCYSFACWCEGLPESTSTYPLPNKSC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q7YT61",
+    "name": "Toxin Cll5c",
+    "organism": "Centruroides limpidus",
+    "mature_sequence": "KEGYLVNKSTGCKYGCFWLGKNENCDMECKAKNQGGSYGYCYSFACWCEGLPDSTPTYPLPNKSCS",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q7Z1K7",
+    "name": "Toxin Cll5b",
+    "organism": "Centruroides limpidus",
+    "mature_sequence": "KEGYLVNKSTGCKYGCFWLGKNENCDKECKAKNQGGSYGYCYSFACWCEGLPDSTPTYPLPNKSCS",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P45698",
+    "name": "Neurotoxin BmK-M9",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "VRDAYIAKPENCVYHCATNEGCNKLCTDNGAESGYCQWGGRYGNACWCIKLPDRVPIRVPGKCH",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P15227",
+    "name": "Neurotoxin BmK-M3",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "VRDAYIAKPENCVYECATNEYCNKLCTDNGAESGYCQWVGRYGNACXCIKLPDRVPIRVWGKCHG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P46066",
+    "name": "Alpha-toxin CsE5",
+    "organism": "Centruroides sculpturatus",
+    "mature_sequence": "KKDGYPVDSGNCKYECLKDDYCNDLCLERKADKGYCYWGKVSCYCYGLPDNSPTKTSGKCNPA",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P46170",
+    "name": "Beta-defensin 12",
+    "organism": "Bos taurus",
+    "mature_sequence": "GPLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P46171",
+    "name": "Beta-defensin 13",
+    "organism": "Bos taurus",
+    "mature_sequence": "SGISGPLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P54135",
+    "name": "Alpha-mammal toxin BmK-M8",
+    "organism": "Olivierus martensii",
+    "mature_sequence": "GRDAYIADSENCTYFCGSNPYCNDVCTENGAKSGYCQWAGRYGNACYCIDLPASERIKEPGKCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P63019",
+    "name": "Alpha-toxin Cn12",
+    "organism": "Centruroides noxius",
+    "mature_sequence": "RDGYPLASNGCKFGCSGLGENNPTCNHVCEKKAGSDYGYCYAWTCYCEHVAEGTVLWGDSGTGPCRS",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P80950",
+    "name": "Neurotoxin-like protein STR1",
+    "organism": "Androctonus australis",
+    "mature_sequence": "ARDGYIVHDGTNCKYSCEFGSEYKYCGPLCEKKKAKTGYCYLFACWCIEVPDEVRVWGEDGFMCWS",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P81929",
+    "name": "Defensin-1",
+    "organism": "Pisum sativum",
+    "mature_sequence": "KTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHNWKCFCTQNC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q01784",
+    "name": "Defensin-like protein 39",
+    "organism": "Pisum sativum",
+    "mature_sequence": "NTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHDWKCFCTQNC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P81930",
+    "name": "Defensin-2",
+    "organism": "Pisum sativum",
+    "mature_sequence": "KTCENLSGTFKGPCIPDGNCNKHCRNNEHLLSGRCRDDFRCWCTNRC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0007744"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P82172",
+    "name": "Defensin-like peptide 1",
+    "organism": "Ornithorhynchus anatinus",
+    "mature_sequence": "FVQHRPRDCESINGVCRHKDTVNCREIFLADCYNDEQKCCRK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269",
+      "ECO:0000312"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "P82659",
+    "name": "Defensin SD2",
+    "organism": "Helianthus annuus",
+    "mature_sequence": "NEMGGPLVVEARTCESQSHKFKGTCLSDTNCANVCHSERFSGGKCRGFRRRCFCTTHC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P84818",
+    "name": "Pelovaterin",
+    "organism": "Pelodiscus sinensis",
+    "mature_sequence": "DDTPSSRCGSGGWGPCLPIVDLLCIVHVTVGCSGGFGCCRIG",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P85123",
+    "name": "Small basic protein 1",
+    "organism": "Anas platyrhynchos",
+    "mature_sequence": "QKKGFCAGYCSYSCAKTDEWTFHQTCGKMYCCIPPPKKG",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P85124",
+    "name": "Small basic protein 2",
+    "organism": "Anas platyrhynchos",
+    "mature_sequence": "QVRKYCPKVGYCSSKCSKADVWSLSSDCKFYCCLPPGWK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "Q1I164",
+    "name": "Toxin Td7",
+    "organism": "Tityus discrepans",
+    "mature_sequence": "KDGYLVGADGCKYGCFTRPGHFCASECSLLKGKDGYCYAWLACYCYNLPDSVPVWDSATNRCGK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q1I169",
+    "name": "Toxin Td5",
+    "organism": "Tityus discrepans",
+    "mature_sequence": "KDGYLVGNDGCKYSCSTRPGHYCASECSRVKGKDGYCYAWLACYCYNMPNWAPIWNSATNRCR",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q1I172",
+    "name": "Toxin Td12",
+    "organism": "Tityus discrepans",
+    "mature_sequence": "KDGYLMEPNGCKRGCLTRPARYCANECSRVKGTDGYCYAWLACYCYNMPNWVKTWDRATNTCGR",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q7M426",
+    "name": "Holotricin-1",
+    "organism": "Holotrichia diomphalia",
+    "mature_sequence": "VTCDLLSLQIKGIAINDSACAAHCLAMRRKGGSCKQGVCVCRN",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000269"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "Q9ZUL7",
+    "name": "Defensin-like protein 1",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "RTCESKSHRFKGPCVSTHNCANVCHNEGFGGGKCRGFRRRCYCTRHC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "A0A7S8MVA6",
+    "name": "Putative sodium channel toxin Ts33",
+    "organism": "Tityus serrulatus",
+    "mature_sequence": "AEDREGFPVNRFGCTYPCYYGEDTEKCRRLCRETLGADYGYCFWYACYCENLPENVRRIKSQGFFGCSNGWWVVSTTTRKPK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255",
+      "ECO:0000305"
+    ],
+    "evidence_class": "mixed"
+  },
+  {
+    "accession": "D9U297",
+    "name": "Neurotoxin LmNaTx1",
+    "organism": "Lychas mucronatus",
+    "mature_sequence": "KDGYPIYSTGKSKGCKIECVINNKYCDKECTLKGGSSGYCYFWKLACYCEGLPDSVAVWTYAENTC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "H1ZZI4",
+    "name": "Toxin To15",
+    "organism": "Tityus obscurus",
+    "mature_sequence": "GKEGYPLDSSGCKAGCFFGTNSWCNTECKRKSAAKGYCAWPSCYCYEFTDDSKIWNAKTNKCYK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P21376",
+    "name": "Meleagrin",
+    "organism": "Meleagris gallopavo",
+    "mature_sequence": "QVLKYCPKIGYCSSKCSKAEVWAYSPDCKVHCCVPANQKW",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P21925",
+    "name": "Defensin-like protein 3",
+    "organism": "Sorghum bicolor",
+    "mature_sequence": "RVCRRRSAGFKGLCMSDHNCAQVCLQEGWGGGNCDGVIRQCKCIRQC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P81008",
+    "name": "Defensin-like protein 1",
+    "organism": "Zea mays",
+    "mature_sequence": "RVCRRRSAGFKGVCMSDHNCAQVCLQEGYGGGNCDGIMRQCKCIRQC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q09198",
+    "name": "Defensin-like protein 21",
+    "organism": "Sorghum bicolor",
+    "mature_sequence": "RVCRRRSAGFKGLCMSDHNCAQVCLQEGWGGGNCDGVMRQCKCIRQC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000269"
+    ],
+    "evidence_class": "experimental"
+  },
+  {
+    "accession": "P82644",
+    "name": "Putative defensin-like protein 231",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "KELCNRIEDIDGNCDFEGEKGCLKFMTNKYKKERHVSCTCTNLYMLHKTKRFCDCKHRCSG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P82716",
+    "name": "Defensin-like protein 147",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "NVQQKRSNRCIDFPVNPKTGLCVLKDCESVCKKTSKGLEGICWKFNAKGKDPKQCKCCGLWPPLY",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P82726",
+    "name": "Putative defensin-like protein 152",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "KQRLCIKVLTNASHVSKGASTCDSKLCTSLCEKISPQGVSFCKPIATTGQSKKGNPVCNCRYWCRSDGTPHTT",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P82728",
+    "name": "Putative defensin-like protein 129",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "DTCHEYLYPEKCENNQCNSECATKFKEVGVFGFCVPPRSEPTEQFCICSYNC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P82744",
+    "name": "Putative defensin-like protein 131",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "HICHDYLEGDHCDPKDCNLDCRDKWKGTGTCEPPTGTPLTRTCYCTYDC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P82746",
+    "name": "Defensin-like protein 153",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "KVPCLSRMFNKNNTCSFLRCEANCARKYKGYGDCRPGDRPHDKKDSLFCFCNYPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "P82782",
+    "name": "Defensin-like protein 8",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "EVSPLDNKICKTRSDRFSGVCISTNNCAIICQQFEHFDGGHCEFDGAFRRCMCTKQC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q0E4V3",
+    "name": "Gallinacin-14",
+    "organism": "Gallus gallus",
+    "mature_sequence": "ESDTVTCRKMKGKCSFLLCPFFKRSSGTCYNGLAKCCRPFW",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q2V3Y8",
+    "name": "Defensin-like protein 45",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "SDIKPTGRIDNQCKRMCSATYGNGKCAADCRSDGFSSGQCFTSPPFDNRCCCNN",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q2V462",
+    "name": "Putative defensin-like protein 38",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "YCERVRSRSAPHDICKKKNGNAVCKEKCWTIEKYQNGRCLILPKTTKLDCYCYHFDQC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q2V4J5",
+    "name": "Defensin-like protein 43",
+    "organism": "Arabidopsis thaliana",
+    "mature_sequence": "SEIKPTGRIDDQCKQMCSATYGDGKCASDCRKAGFSSGRCLTSSPFGNKCCCTK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q32ZI0",
+    "name": "Beta-defensin 11",
+    "organism": "Rattus norvegicus",
+    "mature_sequence": "FLRRSVSGFQECHSKGGYCYRYYCPRPHRRLGSCYPYAANCCRRRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000250"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q68PG5",
+    "name": "Neurotoxin Cex10",
+    "organism": "Centruroides exilicauda",
+    "mature_sequence": "KDGYLVEVTGCKKSCYKLGENKFCNRECKMKHRGGSYGYCYFFGCYCEGLAESTPTWPLPNKSC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  },
+  {
+    "accession": "Q68PG6",
+    "name": "Neurotoxin Cex9",
+    "organism": "Centruroides exilicauda",
+    "mature_sequence": "KDGYPVEVTGCKKSCYKLGENKFCNRECKMKHRGGSYGYCYFFGCYCEGLAESTPTWPLPNKSC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "evidence_codes": [
+      "ECO:0000255"
+    ],
+    "evidence_class": "inferred"
+  }
+]

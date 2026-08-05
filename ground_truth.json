@@ -1,0 +1,1674 @@
+[
+  {
+    "pdb_id": "1FD4",
+    "chain": "A",
+    "sequence": "GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1B8W",
+    "chain": "A",
+    "sequence": "FVQHRPRDCESINGVCRHKDTVNCREIFLADCYNDGQKCCRK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1ZUE",
+    "chain": "A",
+    "sequence": "IFFEMQACWSHSGVCRDKSERNCKPMAWTYCENRNQKCCEY",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1FD3",
+    "chain": "B",
+    "sequence": "GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1EWS",
+    "chain": "A",
+    "sequence": "MPCSCKKYCDPWEVIDGSCGLFNSKYICCREK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1D6B",
+    "chain": "A",
+    "sequence": "IMFFEMQACWSHSGVCRDKSERNCKPMAWTYCENRNQKCCEY",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1BNB",
+    "chain": "A",
+    "sequence": "APLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2K1I",
+    "chain": "A",
+    "sequence": "RRTCHCRSRCLRRESNSGSCNINGRIFSLCCR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1E4T",
+    "chain": "A",
+    "sequence": "NSKRACYREGGECLQRCIGLFHKIGTCNFRFKCCKFQ",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1KJ6",
+    "chain": "A",
+    "sequence": "GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1E4R",
+    "chain": "A",
+    "sequence": "NEPVSCIRNGGICQYRCIGLRHKIGTCGSPFKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1DFN",
+    "chain": "A",
+    "sequence": "DCYCRIPACIAGERRYGTCIYQGRLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1UT3",
+    "chain": "A",
+    "sequence": "SFGLCRLRRGFCARGRCRFPSIPIGRCSRFVQCCRRVW",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2MN3",
+    "chain": "A",
+    "sequence": "RRRRRRPPCEDVNGQCQPRGNPCLRLRGACPRGSRCCMPTVAAH",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "7LZL",
+    "chain": "A",
+    "sequence": "GNSWLCVRRGGNCRFGRCQFAERQIGRCSAFQPCCGR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2RNG",
+    "chain": "A",
+    "sequence": "NPLIPAIYIGATVGPSVWAYLVALVGAAAVTAANIRRASSDNHSCAGNRGWCRSKCFRHEYVDTYYSAVCGRYFCCRSR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1IJV",
+    "chain": "A",
+    "sequence": "DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "6KRA",
+    "chain": "A",
+    "sequence": "RRTCRCRFGRCFRRESYSGSCNINGRIFSLCCR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "4CQK",
+    "chain": "A",
+    "sequence": "RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1TV0",
+    "chain": "A",
+    "sequence": "GLLCYCRKGHCKRGERVRGTCGIRFLYCCPRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1FJN",
+    "chain": "A",
+    "sequence": "GFGCPNNYQCHRHCKSIPGRCGGYCGGWHRLRCTCYRCG",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1HVZ",
+    "chain": "A",
+    "sequence": "GFCRCLCRRGVCRCICTR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1ZMH",
+    "chain": "A",
+    "sequence": "CYCRIPACIAGERRYTCIYQGRLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2PM5",
+    "chain": "A",
+    "sequence": "DCYCRIPACIAGEYGTCIYQGLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2PM4",
+    "chain": "A",
+    "sequence": "DCYCRIPACIAGEKKYGTCIYQGKLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "5KI9",
+    "chain": "A",
+    "sequence": "EFELDRICGYGTARCRCRSQEYRIGRCPNTYACCLRWDES",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1ZMQ",
+    "chain": "A",
+    "sequence": "AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "5LCS",
+    "chain": "A",
+    "sequence": "PFIPRPIDTCRLRNGICFPGICRRPYYWIGTCNNGIGSCCARGWRS",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2NLB",
+    "chain": "A",
+    "sequence": "DHYACVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2NLC",
+    "chain": "A",
+    "sequence": "DHYNCVSAGGQCLYSACPIFTKIQGTCYRGKAKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2NLG",
+    "chain": "A",
+    "sequence": "DHYNCVSSGGQCLYSACPIFTEIQGTCYRGKAKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2NLH",
+    "chain": "A",
+    "sequence": "DHYNCVSSGGQCLYSACPIFTKIAGTCYRGKAKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2NLP",
+    "chain": "A",
+    "sequence": "DHYNCVSSGGQCLYSACPIFTKIEGTCYRGKAKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2MXQ",
+    "chain": "A",
+    "sequence": "SCTCRRAWICRWGERHSGKCIDQKGSTYRLCCRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "3PSM",
+    "chain": "A",
+    "sequence": "KTCENLADTFRGPCFTDGSCDDHCKNKEHLIKGRCRDDFRCWCTRNC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2PM1",
+    "chain": "A",
+    "sequence": "ACYCRIPACIAGEYGTCIYQGLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "5VYP",
+    "chain": "A",
+    "sequence": "KDCKRESNTFPGICITKPPCRKACIREKFTDGHCSKILRRCLCTKPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "pdb_id": "5VYP",
+    "chain": "B",
+    "sequence": "AKDCKRESNTFPGICITKPPCRKACIREKFTDGHCSKILRRCLCTKPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "pdb_id": "6B55",
+    "chain": "A",
+    "sequence": "ARECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "pdb_id": "5NCE",
+    "chain": "A",
+    "sequence": "RMCKTPSGKFKGYCVNNTNCKNVCRTEGFPTGSCDFHVAGRKCYCYKPCP",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1ICA",
+    "chain": "A",
+    "sequence": "ATCDLLSGTGINHSACAAHCLLRGNRGGYCNGKGVCVCRN",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "9E3V",
+    "chain": "A",
+    "sequence": "GFGCNGPWNEDDLRCHNHCKSIKGYKGGYCAKGGFVCKCY",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "9E3W",
+    "chain": "A",
+    "sequence": "GFGCNGPWNEDDRCHHCSIKGYKGGYCAKGGFVCKCY",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "9E3Y",
+    "chain": "A",
+    "sequence": "GFGCNGWNEDDLRCHNHCKSIPYKGGYCAKGFVCKCY",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "3QTE",
+    "chain": "A",
+    "sequence": "AFTCHCRRSCYSTEYSYGTCTVMGINWRFCCL",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "4AB0",
+    "chain": "A",
+    "sequence": "ECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "pdb_id": "4AB0",
+    "chain": "B",
+    "sequence": "RECKTESNTFPGICIPPCRKACISEKFTDGHCSKILRRCLCTKPC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1E4Q",
+    "chain": "A",
+    "sequence": "PVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2LEW",
+    "chain": "A",
+    "sequence": "GLLCYCRKGHCKRGGRVRGTCGIRFLYCCPRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2LEY",
+    "chain": "A",
+    "sequence": "GLLCYCGKGHCKRGERVRGTCGIRFLYCCPRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1ZMP",
+    "chain": "A",
+    "sequence": "ATCYCRTGRCATRESLSGVCEISGRLYRLCCR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2NLQ",
+    "chain": "A",
+    "sequence": "DHYNCVSSGGQCLYSACPIFTKIQGTCYRGAAKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1ZMM",
+    "chain": "A",
+    "sequence": "VCSCRLVFCRRTELRVGNCLIGGVSFTYCCT",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1ZMM",
+    "chain": "B",
+    "sequence": "VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2GWP",
+    "chain": "A",
+    "sequence": "GLLCYCRKGHCKRGDRVRGTCGIRFLYCCPRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "7T9Q",
+    "chain": "A",
+    "sequence": "SYYSTLQCRNNHGHCRRLCFHGEQWIGNCNGRHQHCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "1N4N",
+    "chain": "A",
+    "sequence": "ATCKAECPTWDSVCINKKPCVACCKKAKFSDGHCSKILRRCLCTKEC",
+    "n_cys": 10,
+    "pairs": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        6,
+        9
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2B68",
+    "chain": "A",
+    "sequence": "GFGCPGNQLKCNNHCKSISCRAGYCDAATLWLRCTCTDCNGKK",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2LG5",
+    "chain": "A",
+    "sequence": "LFCKGGSCHFGGCPSHLIKVGSCFGFRSCCKWPWNA",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "6MJV",
+    "chain": "A",
+    "sequence": "KKCWNGGRCRKKCKENEKPIGYCRNGKKCCVN",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "3GNY",
+    "chain": "A",
+    "sequence": "ACYCRIPACIAGERRYGTCIYQGRLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "4DU0",
+    "chain": "A",
+    "sequence": "ACYCRIPACIAGERRYATCIYQGRLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "3I5W",
+    "chain": "A",
+    "sequence": "ATCYCRTGRCATHESLSGVCEISGRLYRLCCR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "3LO1",
+    "chain": "A",
+    "sequence": "ACYCRIPACIAGERRAGTCIYQGRLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "3LO9",
+    "chain": "A",
+    "sequence": "ACYCRIPACIAGERRYGTCIYQGRLAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "5CUM",
+    "chain": "A",
+    "sequence": "ATCYCRTGRCATRESLSGVCEISGRLARLCCR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2N2Q",
+    "chain": "A",
+    "sequence": "DGVKLCDVPSGTWSGHCGSSSKCSQQCKDREHFAYGGACHYQFPSVKCFCKRQC",
+    "n_cys": 8,
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "pdb_id": "7RC7",
+    "chain": "A",
+    "sequence": "GLLCYCRKGHCKRGERVRATCGIRFLYCCPRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "7RC8",
+    "chain": "A",
+    "sequence": "GLLCYCRKGHCKRGERVRTCGIRFLYCCPRR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "7YOA",
+    "chain": "A",
+    "sequence": "DLVCYCRTRGCKRRERMNGTCRKGHLMHTLCCR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "4E82",
+    "chain": "A",
+    "sequence": "ATCYCRTGRCATRESLSGVCISGRLYRLCCR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "4E83",
+    "chain": "A",
+    "sequence": "ATCYCRTGRCATRESLSGVCEISGRLYRCCR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "3H6C",
+    "chain": "A",
+    "sequence": "ACYCRIPACIAGERRYGTCIYAGRLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "3LO4",
+    "chain": "A",
+    "sequence": "ACYCRIPACIAGERRYGTCIYQGALWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "4LB1",
+    "chain": "A",
+    "sequence": "ACYCRIPACIAGERRAGTCIYQGRLWAACC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "4LB7",
+    "chain": "A",
+    "sequence": "ACYCRIPACIAGERRAGTCAYQGRAWAACC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "4LBB",
+    "chain": "A",
+    "sequence": "ACYCRIPACIAGERRYGTCAYQGRLWAFCC",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "5CUI",
+    "chain": "A",
+    "sequence": "ATCYCRTGRCATRESLSGVCEISGRLYALCCR",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2NLD",
+    "chain": "A",
+    "sequence": "DHYNCVSSGGACLYSACPIFTKIQGTCYRGKAKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2NLE",
+    "chain": "A",
+    "sequence": "DHYNCVSSGGQCAYSACPIFTKIQGTCYRGKAKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "pdb_id": "2NLF",
+    "chain": "A",
+    "sequence": "DHYNCVSSGGQCEYSACPIFTKIQGTCYRGKAKCCK",
+    "n_cys": 6,
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  }
+]
