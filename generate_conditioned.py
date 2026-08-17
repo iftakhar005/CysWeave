@@ -184,7 +184,7 @@ def load_model_and_adapter(model_name, adapter_path, device):
 @torch.no_grad()
 def generate(base, cond, sequence, keep, pairs, n_seqs, max_iter,
              sampling_strategy, device, forbid_new_cys=True, oversample=4,
-             max_rounds=6):
+             max_rounds=6, null_conditioning=False):
     tokenizer = base.tokenizer
     free = [i for i, k in enumerate(keep) if not k]
 
@@ -197,7 +197,8 @@ def generate(base, cond, sequence, keep, pairs, n_seqs, max_iter,
             return False
         return True
 
-    cv = build_condition_vector(sequence, pairs)
+    cv = ([0] * len(sequence) if null_conditioning
+          else build_condition_vector(sequence, pairs))
     kept, rounds = [], 0
     while len(kept) < n_seqs and rounds < max_rounds:
         want = n_seqs - len(kept)
@@ -242,15 +243,34 @@ def main():
     ap.add_argument("--sampling-strategy", default="gumbel_argmax")
     ap.add_argument("--oversample", type=int, default=4)
     ap.add_argument("--scramble", action="store_true",
-                    help="SPECIFICITY CONTROL: request a wrong topology")
+                    help="specificity control: request a random wrong topology")
+    ap.add_argument("--null-conditioning", action="store_true",
+                    help="ABLATION: run the trained adapter with an ALL-ZERO "
+                         "conditioning vector. If fidelity stays high, the gain "
+                         "came from LoRA fine-tuning, NOT from the signal.")
+    ap.add_argument("--request-topology", default=None,
+                    help="SWAP TEST: request one specific REAL topology for "
+                         "every template with a matching cysteine count, e.g. "
+                         "'1-5,2-4,3-6' (beta-defensin). Unlike --scramble this "
+                         "asks for a pattern that genuinely occurs in nature, so "
+                         "producing it is physically possible -- the decisive "
+                         "test of whether conditioning actually steers topology.")
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--device",
                     default="cuda" if torch.cuda.is_available() else "cpu")
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
 
-    out_path = args.out or ("generated_scrambled.json" if args.scramble
-                            else "generated_conditioned.json")
+    if args.out:
+        out_path = args.out
+    elif args.null_conditioning:
+        out_path = "generated_nullcond.json"
+    elif args.request_topology:
+        out_path = "generated_swap.json"
+    elif args.scramble:
+        out_path = "generated_scrambled.json"
+    else:
+        out_path = "generated_conditioned.json"
     rng = random.Random(args.seed)
     torch.manual_seed(args.seed)
 
@@ -265,7 +285,11 @@ def main():
             break
 
     print(f"model {args.model} on {args.device}")
-    print(f"mode: {'SCRAMBLED (specificity control)' if args.scramble else 'CONDITIONED'}")
+    mode = ("NULL-CONDITIONING (attribution ablation)" if args.null_conditioning
+            else f"SWAP TEST -> {args.request_topology}" if args.request_topology
+            else "SCRAMBLED (specificity control)" if args.scramble
+            else "CONDITIONED")
+    print(f"mode: {mode}")
     print(f"templates: {len(templates)}\n")
 
     base, cond = load_model_and_adapter(args.model, args.adapter, args.device)
@@ -276,8 +300,18 @@ def main():
         seq = t["sequence"]
         entry = f"{t['pdb_id']}_{t['chain']}"
         true_pairs = [list(p) for p in t["pairs"]]
-        req_pairs = ([list(p) for p in scramble_topology(t["pairs"], rng)]
-                     if args.scramble else true_pairs)
+        if args.request_topology:
+            want = [[int(x) for x in b.split("-")]
+                    for b in args.request_topology.split(",")]
+            if 2 * len(want) != 2 * len(true_pairs):
+                print(f"   SKIP {entry}: needs {2*len(true_pairs)} cysteines, "
+                      f"requested topology has {2*len(want)}")
+                continue
+            req_pairs = want
+        elif args.scramble:
+            req_pairs = [list(p) for p in scramble_topology(t["pairs"], rng)]
+        else:
+            req_pairs = true_pairs
         keep = build_mask(seq, args.mask_rate, True, rng)
 
         print(f"{entry:<9} len={len(seq):<3} redesigning "
@@ -289,7 +323,8 @@ def main():
             seqs, rounds = generate(base, cond, seq, keep, req_pairs,
                                     args.n_per_template, args.max_iter,
                                     args.sampling_strategy, args.device,
-                                    oversample=args.oversample)
+                                    oversample=args.oversample,
+                                    null_conditioning=args.null_conditioning)
         except Exception as e:
             print(f"   GENERATION FAILED: {type(e).__name__}: {e}")
             continue

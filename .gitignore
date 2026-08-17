@@ -31,3 +31,7 @@ __pycache__/
 
 # Model
 topology_adapter.pt
+# Local experiment/result archive
+result/
+ambiguity_set.json
+metric_discrimination.json
