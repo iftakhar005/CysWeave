@@ -1,0 +1,1204 @@
+{
+  "kno0001": {
+    "sequence": "ATEDINCDNWRDCLKPCKDETGCPNSKCEEGNCLCYGCNRLTV",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "label": "K1",
+    "accession": "P0DRL6",
+    "evidence": "experimental",
+    "spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "group_majority": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "arm": "collision",
+    "is_majority": true,
+    "density": 0.186
+  },
+  "kno0002": {
+    "sequence": "SAEDISCSSSKECYDPCEEETGCSSAKCVGGWCKCYGCR",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "label": "K1",
+    "accession": "P0DRL5",
+    "evidence": "experimental",
+    "spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "group_majority": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "arm": "collision",
+    "is_majority": true,
+    "density": 0.205
+  },
+  "kno0003": {
+    "sequence": "ATEAISCSNPNDCREPCKKQTGCSGGKCMNRKCKCHRCN",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "label": "K1",
+    "accession": "P0DRL7",
+    "evidence": "experimental",
+    "spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "group_majority": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "arm": "collision",
+    "is_majority": true,
+    "density": 0.205
+  },
+  "kno0004": {
+    "sequence": "GDIKCSGTRQCWGPCKKQTTCTNSKCMNGKCKCYGCVG",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "label": "K1",
+    "accession": "P0DL37",
+    "evidence": "experimental",
+    "spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "group_majority": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "arm": "collision",
+    "is_majority": true,
+    "density": 0.211
+  },
+  "kno0005": {
+    "sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "label": "K2",
+    "accession": "O46028",
+    "evidence": "experimental",
+    "spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "arm": "collision",
+    "is_majority": true,
+    "density": 0.188
+  },
+  "kno0006": {
+    "sequence": "VACVYRTCDKDCTSRKYRSGKCINNACKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        6
+      ]
+    ],
+    "label": "K2",
+    "accession": "P58504",
+    "evidence": "inferred",
+    "spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "arm": "collision",
+    "is_majority": false,
+    "density": 0.188
+  },
+  "kno0007": {
+    "sequence": "AACYSSDCRVKCVAMGFSSGKCINSKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "label": "K2",
+    "accession": "P83407",
+    "evidence": "experimental",
+    "spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "arm": "collision",
+    "is_majority": true,
+    "density": 0.194
+  },
+  "kno0008": {
+    "sequence": "YLPGNTVEAGSCSNKNCVSSCQGSGNSSGKCINSKCKCYPRG",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "label": "K2",
+    "accession": "D9U2B0",
+    "evidence": "inferred",
+    "spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "arm": "collision",
+    "is_majority": true,
+    "density": 0.143
+  },
+  "kno0009": {
+    "sequence": "SCIEEWKTCEHSCECCGSSTICSSTWAEGKEIKLCKNEGGTFKKVLHFIQKGISKLKSCKEGN",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "label": "K3",
+    "accession": "B1P1I1",
+    "evidence": "experimental",
+    "spacing": [
+      6,
+      3,
+      1,
+      0,
+      5,
+      12,
+      23
+    ],
+    "group_majority": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.127
+  },
+  "kno0010": {
+    "sequence": "SCIEEWKTCENSCECCGSSTICSSTWAEGKEIKLCKNEGGTFKKVLHFIQKGISKLKSCKEGN",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "label": "K3",
+    "accession": "B1P1I2",
+    "evidence": "experimental",
+    "spacing": [
+      6,
+      3,
+      1,
+      0,
+      5,
+      12,
+      23
+    ],
+    "group_majority": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.127
+  },
+  "kno0011": {
+    "sequence": "SCIEEWKTCENDCECCGMSTLCAASWVDGHQIKLCRNEGGKLKKVLHFIQKSVSKIKSCKK",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "label": "K3",
+    "accession": "D2Y2B6",
+    "evidence": "experimental",
+    "spacing": [
+      6,
+      3,
+      1,
+      0,
+      5,
+      12,
+      23
+    ],
+    "group_majority": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.131
+  },
+  "kno0012": {
+    "sequence": "KEGYLVNKSTGCKYGCLKLGENEGCDKECKAKNQGGSYGYCYAFACWCEGLPESTPTYPLPNKSCSRK",
+    "intended_pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "label": "K4",
+    "accession": "P01493",
+    "evidence": "experimental",
+    "spacing": [
+      3,
+      8,
+      3,
+      11,
+      4,
+      1,
+      16
+    ],
+    "group_majority": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.118
+  },
+  "kno0013": {
+    "sequence": "KEGYLVDYHTGCKYTCAKLGDNDYCVRECRLRYYQSAHGYCYAFACWCTHLYEQAVVWPLPNKRCK",
+    "intended_pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "label": "K4",
+    "accession": "C0HK69",
+    "evidence": "experimental",
+    "spacing": [
+      3,
+      8,
+      3,
+      11,
+      4,
+      1,
+      16
+    ],
+    "group_majority": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.121
+  },
+  "kno0014": {
+    "sequence": "KEGYLVDKNTGCKYECLKLGDNDYCLRECKQQYGKGAGGYCYAFACWCTHLYEQAIVWPLPNKRCS",
+    "intended_pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "label": "K4",
+    "accession": "P01495",
+    "evidence": "experimental",
+    "spacing": [
+      3,
+      8,
+      3,
+      11,
+      4,
+      1,
+      16
+    ],
+    "group_majority": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.121
+  },
+  "kno0015": {
+    "sequence": "ACVGENKQCADWAGPHCCDGYYCTCRYFPKCICRNNN",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "label": "K5",
+    "accession": "P11061",
+    "evidence": "experimental",
+    "spacing": [
+      6,
+      7,
+      0,
+      4,
+      1,
+      5,
+      1
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.216
+  },
+  "kno0016": {
+    "sequence": "GCLGEGEKCADWSGPSCCDGFYCSCRSMPYCRCRNNS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "label": "K5",
+    "accession": "P83256",
+    "evidence": "experimental",
+    "spacing": [
+      6,
+      7,
+      0,
+      4,
+      1,
+      5,
+      1
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.216
+  },
+  "kno0017": {
+    "sequence": "ACVGDGQRCASWSGPYCCDGYYCSCRSMPYCRCRNNS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "label": "K5",
+    "accession": "P83257",
+    "evidence": "experimental",
+    "spacing": [
+      6,
+      7,
+      0,
+      4,
+      1,
+      5,
+      1
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.216
+  },
+  "kno0018": {
+    "sequence": "KKNGYAVDSSGKVAECLFNNYCNNECTKVYYADKGYCCLLKCYCFGLADDKPVLDIWDSTKNYCDVQIIDLS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        5,
+        8
+      ]
+    ],
+    "label": "K6",
+    "accession": "O77091",
+    "evidence": "experimental",
+    "spacing": [
+      5,
+      3,
+      10,
+      0,
+      3,
+      1,
+      19
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        5,
+        8
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.111
+  },
+  "kno0019": {
+    "sequence": "KKNGYAVDSSGKAPECLLSNYCNNECTKVHYADKGYCCLLSCYCFGLNDDKKVLEISDTRKSYCDTTIIN",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        5,
+        8
+      ]
+    ],
+    "label": "K6",
+    "accession": "P01497",
+    "evidence": "experimental",
+    "spacing": [
+      5,
+      3,
+      10,
+      0,
+      3,
+      1,
+      19
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        5,
+        8
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.114
+  },
+  "kno0020": {
+    "sequence": "KKNGYAVDSSGKVSECLLNNYCNNICTKVYYATSGYCCLLSCYCFGLDDDKAVLKIKDATKSYCDVQII",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        5,
+        8
+      ]
+    ],
+    "label": "K6",
+    "accession": "O61668",
+    "evidence": "experimental",
+    "spacing": [
+      5,
+      3,
+      10,
+      0,
+      3,
+      1,
+      19
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        5,
+        8
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.116
+  },
+  "kno0021": {
+    "sequence": "NRWNLGYGIPHKQVKLPNGQLCKEPGDSCSKRDECCKADDQKTYSSGCAQTWSAMEGGFVRECYICAVESSMC",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "label": "K7",
+    "accession": "A0A452CSQ9",
+    "evidence": "experimental",
+    "spacing": [
+      6,
+      5,
+      0,
+      11,
+      14,
+      2,
+      6
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.11
+  },
+  "kno0022": {
+    "sequence": "EIAQNLGSGIPHIRTKLPNGQWCKTPGDLCSSRSECCKAEDSVTYSSGCSRQWSGQQGTFINQCRTCNVESSMC",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "label": "K7",
+    "accession": "P49267",
+    "evidence": "inferred",
+    "spacing": [
+      6,
+      5,
+      0,
+      11,
+      14,
+      2,
+      6
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.108
+  },
+  "kno0023": {
+    "sequence": "HPMNQGYGIPHDVVKLPNGQWCKTPGDDCSKSSECCKAKDTVTYSSGCSQEWSGQLGGFVKLCHICNVESSMC",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "label": "K7",
+    "accession": "W4VRV1",
+    "evidence": "inferred",
+    "spacing": [
+      6,
+      5,
+      0,
+      11,
+      14,
+      2,
+      6
+    ],
+    "group_majority": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "arm": "diversity",
+    "is_majority": true,
+    "density": 0.11
+  }
+}

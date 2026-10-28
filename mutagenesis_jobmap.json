@@ -1,0 +1,1010 @@
+{
+  "mut0001": {
+    "label": "SP1@0",
+    "sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0002": {
+    "label": "SP1@10",
+    "sequence": "AACYSSDCRVKCRAMSFSSGKCIDSKCKCYD",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0003": {
+    "label": "SP1@10",
+    "sequence": "AACYSSDCRVVCRAMGFSSRKCIDSKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0004": {
+    "label": "SP1@10",
+    "sequence": "AACYSSDCRVKCPAMGFSIGKCIDSKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0005": {
+    "label": "SP1@20",
+    "sequence": "AACYFYDCRVKCGAMGFSSMKCIDSKCKCYN",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0006": {
+    "label": "SP1@20",
+    "sequence": "AACFSSDCRVKCRSMGFSNGKCIDSQCKCWK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0007": {
+    "label": "SP1@20",
+    "sequence": "AACYSSDCLVKCRAMGFSYGDCITWKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0008": {
+    "label": "SP1@30",
+    "sequence": "LACNSSDCRVKCRYMEFSGGKCIDKICKCYL",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0009": {
+    "label": "SP1@30",
+    "sequence": "AACMISDCRVKCYYMGFYYPKCIDSKCKCFK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0010": {
+    "label": "SP1@30",
+    "sequence": "AACHSSDCREKCHVMMFISGKCNESKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0011": {
+    "label": "SP1@40",
+    "sequence": "AMCVSIDCRVPCRAMQFSSEVCIDSLCSCYT",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0012": {
+    "label": "SP1@40",
+    "sequence": "HACYKSDCDFLCRSMGFSPGKCHGNKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0013": {
+    "label": "SP1@40",
+    "sequence": "KRCAHSDCFVKCRAMGFSSGFCEEPVCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0014": {
+    "label": "SP1@50",
+    "sequence": "ESCQDSDCMVFCRAMGTSSGWCIKSHCMCPK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0015": {
+    "label": "SP1@50",
+    "sequence": "AWCYSGVCSVMCRRFGFSHGQCADMKCKCSK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0016": {
+    "label": "SP1@50",
+    "sequence": "NRCGIADCRVECRNMPFPSGVCIDSKCQCYS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0017": {
+    "label": "SP1@60",
+    "sequence": "AVCYSSECNHKCVNDIWLSGACTYEKCKCSK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0018": {
+    "label": "SP1@60",
+    "sequence": "IGCMALRCFVKCRATFKWLGICIDEKCVCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0019": {
+    "label": "SP1@60",
+    "sequence": "IACYYPDCRVPCRDTGFQIVGCNDDKCQCWS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0020": {
+    "label": "SP1@70",
+    "sequence": "AWCMSMGCFVFCMVDGVNYGECIRSHCLCMS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0021": {
+    "label": "SP1@70",
+    "sequence": "ARCTKSWCEVKCYFNGGSEQICSDARCTCID",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0022": {
+    "label": "SP1@70",
+    "sequence": "QRCQTSKCFLICRVISHYSGGCDWSKCKCGF",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0023": {
+    "label": "SP1@80",
+    "sequence": "LWCGSTACWEHCRVDTFMQPDCQDSNCGCEE",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0024": {
+    "label": "SP1@80",
+    "sequence": "PMCEMQECSGRCDEKINSHNKCPMSKCVCVK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0025": {
+    "label": "SP1@80",
+    "sequence": "HECISFDCFNKCTWVKPSGNNCIQFRCRCFY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0026": {
+    "label": "SP1@90",
+    "sequence": "HWCFRRPCSFACSTGNMFSEKCAFSECSCTS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0027": {
+    "label": "SP1@90",
+    "sequence": "HDCPAHGCYPPCIANGMMSVGCNTVHCPCPL",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0028": {
+    "label": "SP1@90",
+    "sequence": "SDCQERNCRVECSTDYLSWHECARPSCNCPG",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0029": {
+    "label": "SP1@0",
+    "sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0030": {
+    "label": "SP1@10",
+    "sequence": "AVCVYRTCDKDCKPRGSRSGKCINNACKCIPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0031": {
+    "label": "SP1@10",
+    "sequence": "AVCLYRTCDKDCHRRGYRFGKCINNACKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0032": {
+    "label": "SP1@10",
+    "sequence": "AVCVGRTCDKDCKRRGYRSGTCIRNACKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0033": {
+    "label": "SP1@20",
+    "sequence": "AVCVYRNCDQDCKRRGGTSGKCINNACKCYWY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0034": {
+    "label": "SP1@20",
+    "sequence": "AVCAYRTCAKDCKRRGYRTGKCINMACKCYTY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0035": {
+    "label": "SP1@20",
+    "sequence": "AVCVGRTCNKDCYRRGYRSGKCINVACKCYSY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0036": {
+    "label": "SP1@30",
+    "sequence": "RVCFYRTCDAWCKRRRYRDGMCINNMCKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0037": {
+    "label": "SP1@30",
+    "sequence": "AVCWERTCGKNCPRYGYDSGKCINNACKCLPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0038": {
+    "label": "SP1@30",
+    "sequence": "AVCYYRICDGDCSRRGFRSRKCINYACKCYWY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0039": {
+    "label": "SP1@40",
+    "sequence": "AVCVRPVCDKRCTRYGYGSGKCNNNACKCFRY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0040": {
+    "label": "SP1@40",
+    "sequence": "AQCVYRTCHKDCWPRGYAVAKCINNACICTDY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0041": {
+    "label": "SP1@40",
+    "sequence": "KRCASRTCDKDCKRFNYRSGKCINNMCGCYKM",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0042": {
+    "label": "SP1@50",
+    "sequence": "AVCDQKQCDKDCKTRQTISGKCTNRKCHCYSY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0043": {
+    "label": "SP1@50",
+    "sequence": "AWCRYRSCDNDCTRDGTRSGKCINQYCVCLSV",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0044": {
+    "label": "SP1@50",
+    "sequence": "GYCNYRICSKRCEKNGYRSGPCINYTCLCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0045": {
+    "label": "SP1@60",
+    "sequence": "RTCDEVTCQKWCKMKGAMSMKCYMNACKCYTS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0046": {
+    "label": "SP1@60",
+    "sequence": "ARCTKPTCPGDCYRRGWDQSFCIKLACHCYPM",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0047": {
+    "label": "SP1@60",
+    "sequence": "MFCVQRTCLKECNRRLYASYSCIHWQCICYSF",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0048": {
+    "label": "SP1@70",
+    "sequence": "AVCGEIWCDQDCPHRGGISRYCVAGICGCYAV",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0049": {
+    "label": "SP1@70",
+    "sequence": "RVCVEAMCDTKCMRHYGNNGKCVVNACRCMYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0050": {
+    "label": "SP1@70",
+    "sequence": "QPCRYDECAALCGDNGSDRGICINNDCLCYPT",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0051": {
+    "label": "SP1@80",
+    "sequence": "LSCVGHGCESLCWGAPEHAGFCYHWFCKCYHY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0052": {
+    "label": "SP1@80",
+    "sequence": "WYCDQRQCVTVCYQYNPDVGDCINMACACALF",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0053": {
+    "label": "SP1@80",
+    "sequence": "AHCVQVACHKYCDMGDNRSQQCAHMPCTCPSG",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0054": {
+    "label": "SP1@90",
+    "sequence": "SGCNWMTCYDYCSAQGNWLSGCTWIMCACYQK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0055": {
+    "label": "SP1@90",
+    "sequence": "KACMQEECRQRCMRHAYRLTDCKSVSCRCNLR",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "mut0056": {
+    "label": "SP1@90",
+    "sequence": "MDCMYAGCEDRCHGDSGVGGWCYRWACPCTGN",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  }
+}

@@ -199,6 +199,15 @@ def parse_entry(entry):
     if len(pairs) < 2 or len(pairs) * 2 != ncys:
         return None
 
+    # A cysteine forms exactly ONE disulfide. The count check above is not
+    # sufficient: [[1,4],[1,6],[3,5],[7,8]] has 4 pairs for 8 cysteines and
+    # passes it, yet puts C1 in two bonds and leaves C2 unbonded. Such records
+    # exist in UniProt (propagated across homolog clusters), so verify that the
+    # flattened pair list is a permutation of 1..ncys.
+    flat = [c for pr in pairs for c in pr]
+    if len(flat) != len(set(flat)) or sorted(flat) != list(range(1, ncys + 1)):
+        return None
+
     name = ""
     try:
         name = (entry["proteinDescription"]["recommendedName"]
@@ -282,7 +291,9 @@ def main():
     with open(args.out, "w") as fh:
         json.dump([{k: v for k, v in r.items() if k != "topology"}
                    for r in unique], fh, indent=2)
-    with open("defensin_mature.fasta", "w") as fh:
+    fasta_path = args.out.replace("_connectivity_dataset.json", "") \
+                         .replace(".json", "") + "_mature.fasta"
+    with open(fasta_path, "w") as fh:
         for r in unique:
             fh.write(f">{r['accession']}|{r['evidence_class']}\n"
                      f"{r['mature_sequence']}\n")
@@ -342,9 +353,9 @@ def main():
         print("  -> Too thin for training. Favour Option 3 (guidance, no training),")
         print("     or the cysteine-spacing angle. Re-run with --all to see TrEMBL.")
     print("-" * 78)
-    print(f"\nWrote {args.out} and defensin_mature.fasta")
+    print(f"\nWrote {args.out} and {fasta_path}")
     print("For the real non-redundant split, run:  "
-          "cd-hit -i defensin_mature.fasta -o nr90 -c 0.9")
+          f"cd-hit -i {fasta_path} -o nr90 -c 0.9")
 
 
 if __name__ == "__main__":

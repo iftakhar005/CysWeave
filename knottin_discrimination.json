@@ -1,0 +1,1392 @@
+[
+  {
+    "template": "SP1",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "_accession": "C0HJQ2"
+  },
+  {
+    "template": "SP1",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "_accession": "O46028"
+  },
+  {
+    "template": "SP1",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "_accession": "C0HJW2"
+  },
+  {
+    "template": "SP1",
+    "template_sequence": "NVACVHRTCDSNCKRNGYKSGKCINRKCNCYPH",
+    "sequence": "NVACVHRTCDSNCKRNGYKSGKCINRKCNCYPH",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "_accession": "C0HM73"
+  },
+  {
+    "template": "SP1",
+    "template_sequence": "TVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "TVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "_accession": "C0HM75"
+  },
+  {
+    "template": "SP1",
+    "template_sequence": "AACYSSDCRVKCVAMGFSSGKCINSKCKCYK",
+    "sequence": "AACYSSDCRVKCVAMGFSSGKCINSKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "_accession": "P83407"
+  },
+  {
+    "template": "SP1",
+    "template_sequence": "YLPGNTVEAGSCSNKNCVSSCQGSGNSSGKCINSKCKCYPRG",
+    "sequence": "YLPGNTVEAGSCSNKNCVSSCQGSGNSSGKCINSKCKCYPRG",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "_accession": "D9U2B0"
+  },
+  {
+    "template": "SP1",
+    "template_sequence": "VACVYRTCDKDCTSRKYRSGKCINNACKCYPY",
+    "sequence": "VACVYRTCDKDCTSRKYRSGKCINNACKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      4,
+      3,
+      9,
+      4,
+      1
+    ],
+    "_accession": "P58504"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "GDIKCSGTRQCWGPCKKQTTCTNSKCMNGKCKCYGCVG",
+    "sequence": "GDIKCSGTRQCWGPCKKQTTCTNSKCMNGKCKCYGCVG",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "P0DL37"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "ASCRTPKDCADPCRKETGCPYGKCMNRKCKCNRC",
+    "sequence": "ASCRTPKDCADPCRKETGCPYGKCMNRKCKCNRC",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "P59867"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "LVKCRGTSDCGRPCQQQTGCPNSKCINRMCKCYGC",
+    "sequence": "LVKCRGTSDCGRPCQQQTGCPNSKCINRMCKCYGC",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "Q10726"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "IKCTLSKDCYSPCKKETGCPRAKCINRNCKCYGCS",
+    "sequence": "IKCTLSKDCYSPCKKETGCPRAKCINRNCKCYGCS",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "P85528"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "ISCTGSKQCYDPCKKKTGCPNAKCMNKSCXCYGC",
+    "sequence": "ISCTGSKQCYDPCKKKTGCPNAKCMNKSCXCYGC",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "C0HJN0"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "SAEDISCSSSKECYDPCEEETGCSSAKCVGGWCKCYGCR",
+    "sequence": "SAEDISCSSSKECYDPCEEETGCSSAKCVGGWCKCYGCR",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "P0DRL5"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "ATEDINCDNWRDCLKPCKDETGCPNSKCEEGNCLCYGCNRLTV",
+    "sequence": "ATEDINCDNWRDCLKPCKDETGCPNSKCEEGNCLCYGCNRLTV",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "P0DRL6"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "ATEAISCSNPNDCREPCKKQTGCSGGKCMNRKCKCHRCN",
+    "sequence": "ATEAISCSNPNDCREPCKKQTGCSGGKCMNRKCKCHRCN",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "P0DRL7"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "IEAIRCGGSRDCYRPCQKRTGCPNAKCINKTCKCYGCS",
+    "sequence": "IEAIRCGGSRDCYRPCQKRTGCPNAKCINKTCKCYGCS",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "P58498"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "IRCSGSRDCYSPCMKQTGCPNAKCINKSCKCYGC",
+    "sequence": "IRCSGSRDCYSPCMKQTGCPNAKCINKSCKCYGC",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "P84094"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "IRCQGSNQCYGHCREKTGCMNGKCINRVCKCYGC",
+    "sequence": "IRCQGSNQCYGHCREKTGCMNGKCINRVCKCYGC",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "P86116"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "EVIRCSGSKQCYGPCKQQTGCTNSKCMNKVCKCYGC",
+    "sequence": "EVIRCSGSKQCYGPCKQQTGCTNSKCMNKVCKCYGC",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "Q6XLL5"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "AEIIRCSGTRECYAPCQKLTGCLNAKCMNKACKCYGCV",
+    "sequence": "AEIIRCSGTRECYAPCQKLTGCLNAKCMNKACKCYGCV",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "Q6XLL6"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "NGNIKTDIKCYRNSHCNFHCEKSYYCQGSKCVRKRCNCYNCPL",
+    "sequence": "NGNIKTDIKCYRNSHCNFHCEKSYYCQGSKCVRKRCNCYNCPL",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "C5J896"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "DEAIRCTGTKDCYIPCRYITGCFNSRCINKSCKCYGCT",
+    "sequence": "DEAIRCTGTKDCYIPCRYITGCFNSRCINKSCKCYGCT",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "P58490"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "AEVIKCRTPKDCADPCRKQTGCPHAKCMNKTCRCHRC",
+    "sequence": "AEVIKCRTPKDCADPCRKQTGCPHAKCMNKTCRCHRC",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "Q6XLL7"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "AEVIKCRTPKDCADPCRKQTGCPHGKCMNRTCRCNRC",
+    "sequence": "AEVIKCRTPKDCADPCRKQTGCPHGKCMNRTCRCNRC",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "Q6XLL8"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "AEVIKCRTPKDCAGPCRKQTGCPHGKCMNRTCRCNRC",
+    "sequence": "AEVIKCRTPKDCAGPCRKQTGCPHGKCMNRTCRCNRC",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "Q6XLL9"
+  },
+  {
+    "template": "SP2",
+    "template_sequence": "VSCTGSKDCYAPCRKQTGCPNAKCINKSCKCYGC",
+    "sequence": "VSCTGSKDCYAPCRKQTGCPNAKCINKSCKCYGC",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 8,
+    "_spacing": [
+      5,
+      3,
+      5,
+      4,
+      4,
+      1,
+      2
+    ],
+    "_accession": "P80719"
+  },
+  {
+    "template": "SP3",
+    "template_sequence": "LFECSFSCDIKKNGKPCKGSGEKKCSGGWRCKMNFCVKV",
+    "sequence": "LFECSFSCDIKKNGKPCKGSGEKKCSGGWRCKMNFCVKV",
+    "intended_pairs": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      3,
+      8,
+      7,
+      5,
+      4
+    ],
+    "_accession": "B1P1A6"
+  },
+  {
+    "template": "SP3",
+    "template_sequence": "IFECSFSCDIKKNGKPCKGAGEKKCSGGWRCKMNFCVKF",
+    "sequence": "IFECSFSCDIKKNGKPCKGAGEKKCSGGWRCKMNFCVKF",
+    "intended_pairs": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      3,
+      8,
+      7,
+      5,
+      4
+    ],
+    "_accession": "B1P1A7"
+  },
+  {
+    "template": "SP3",
+    "template_sequence": "CSFSCDIKKNGKPCTGAGEKKCSGGWRCKMNFCVKF",
+    "sequence": "CSFSCDIKKNGKPCTGAGEKKCSGGWRCKMNFCVKF",
+    "intended_pairs": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      3,
+      8,
+      7,
+      5,
+      4
+    ],
+    "_accession": "B1P1A9"
+  },
+  {
+    "template": "SP3",
+    "template_sequence": "FTCAISCDIKVNGKPCKGSGEKKCSGGWSCKFNVCVKV",
+    "sequence": "FTCAISCDIKVNGKPCKGSGEKKCSGGWSCKFNVCVKV",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      3,
+      8,
+      7,
+      5,
+      4
+    ],
+    "_accession": "B3EWQ0"
+  },
+  {
+    "template": "SP4",
+    "template_sequence": "VKPCRKEGQLCDPIFQNCCRGWNCVLFCV",
+    "sequence": "VKPCRKEGQLCDPIFQNCCRGWNCVLFCV",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      4,
+      3
+    ],
+    "_accession": "Q9TWM7"
+  },
+  {
+    "template": "SP4",
+    "template_sequence": "DDDKKECIGHMGWCAWTDGECCEGYRCKLWCRKIIDWL",
+    "sequence": "DDDKKECIGHMGWCAWTDGECCEGYRCKLWCRKIIDWL",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      4,
+      3
+    ],
+    "_accession": "P0DV96"
+  },
+  {
+    "template": "SP4",
+    "template_sequence": "RGKPCHEEGQLCDPFLQNCCLGWNCVFVCI",
+    "sequence": "RGKPCHEEGQLCDPFLQNCCLGWNCVFVCI",
+    "intended_pairs": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      4,
+      3
+    ],
+    "_accession": "P69759"
+  },
+  {
+    "template": "SP5",
+    "template_sequence": "RCLSGGEVCDFLFPKCCNYCILLFCS",
+    "sequence": "RCLSGGEVCDFLFPKCCNYCILLFCS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      2,
+      4
+    ],
+    "_accession": "P69758"
+  },
+  {
+    "template": "SP5",
+    "template_sequence": "CLDAGEVCDIFFPTCCGYCILLFCA",
+    "sequence": "CLDAGEVCDIFFPTCCGYCILLFCA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      2,
+      4
+    ],
+    "_accession": "Q3YEF3"
+  },
+  {
+    "template": "SP5",
+    "template_sequence": "KRQCLPPLSLCNMADDDCCNDCVLFLCSYY",
+    "sequence": "KRQCLPPLSLCNMADDDCCNDCVLFLCSYY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      2,
+      4
+    ],
+    "_accession": "Q9BP88"
+  },
+  {
+    "template": "SP5",
+    "template_sequence": "KRQCLPPLHWCNMVDDECCHFCVLLACV",
+    "sequence": "KRQCLPPLHWCNMVDDECCHFCVLLACV",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      2,
+      4
+    ],
+    "_accession": "Q9BP89"
+  },
+  {
+    "template": "SP5",
+    "template_sequence": "KRQCLPPLSLCTMDDDECCDDCXLFLCLVTS",
+    "sequence": "KRQCLPPLSLCTMDDDECCDDCXLFLCLVTS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      2,
+      4
+    ],
+    "_accession": "Q9BP90"
+  },
+  {
+    "template": "SP5",
+    "template_sequence": "KRQCLPPLSLCTMDDDECCDDCILFLCLVTS",
+    "sequence": "KRQCLPPLSLCTMDDDECCDDCILFLCLVTS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      2,
+      4
+    ],
+    "_accession": "Q9BP91"
+  },
+  {
+    "template": "SP5",
+    "template_sequence": "NTEEGCLPPLSLCTMADDECCHDCILFLCLVSP",
+    "sequence": "NTEEGCLPPLSLCTMADDECCHDCILFLCLVSP",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      2,
+      4
+    ],
+    "_accession": "Q9BP92"
+  },
+  {
+    "template": "SP5",
+    "template_sequence": "RCLDAGEICDFFFPTCCGYCILLFCA",
+    "sequence": "RCLDAGEICDFFFPTCCGYCILLFCA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      2,
+      4
+    ],
+    "_accession": "Q9U650"
+  },
+  {
+    "template": "SP5",
+    "template_sequence": "RCLDAGEVCDIFFPTCCGYCILLFCA",
+    "sequence": "RCLDAGEVCDIFFPTCCGYCILLFCA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      2,
+      4
+    ],
+    "_accession": "Q9XZK8"
+  },
+  {
+    "template": "SP5",
+    "template_sequence": "KCYGFGEACLVLYTDCCGYCVLAVCL",
+    "sequence": "KCYGFGEACLVLYTDCCGYCVLAVCL",
+    "intended_pairs": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_spacing": [
+      6,
+      6,
+      0,
+      2,
+      4
+    ],
+    "_accession": "P69760"
+  }
+]

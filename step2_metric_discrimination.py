@@ -120,7 +120,9 @@ def build(args):
 # --------------------------------------------------------------------------
 
 def analyze(args):
-    built = {r["sequence"]: r for r in json.load(open(args.out))}
+    oracle = args.oracle_name
+    src_path = args.source_json or args.out
+    built = {r["sequence"]: r for r in json.load(open(src_path))}
     rows = [json.loads(l) for l in open(args.analyze) if l.strip()]
     print(f"analysing {len(rows)} folded sequences\n")
 
@@ -130,7 +132,7 @@ def analyze(args):
         by_group[r["template"]].append((
             meta.get("_accession", "?"),
             tuple(map(tuple, r["intended"])),   # the true annotated topology
-            tuple(map(tuple, r["realized"])),   # what ESMFold predicted
+            tuple(map(tuple, r["realized"])),   # what the oracle predicted
             r["match"],
         ))
 
@@ -148,10 +150,10 @@ def analyze(args):
                   f"  pred={[list(x) for x in p]}  {'OK' if m else 'wrong'}")
         if len(pred_set) == 1 and len(true_set) > 1:
             collapsed += 1
-            print("   -> ESMFold gave ALL of them the SAME topology (collapsed)")
+            print(f"   -> {oracle} gave ALL of them the SAME topology (collapsed)")
         elif correct == len(items):
             discriminating += 1
-            print("   -> ESMFold recovered each sequence's own topology")
+            print(f"   -> {oracle} recovered each sequence's own topology")
         else:
             print(f"   -> partial: {correct}/{len(items)} correct")
 
@@ -159,16 +161,16 @@ def analyze(args):
     print("\n" + "=" * 74)
     print("VERDICT")
     print("=" * 74)
-    print(f"groups where ESMFold discriminated : {discriminating}/{total}")
-    print(f"groups where ESMFold collapsed     : {collapsed}/{total}")
+    print(f"groups where {oracle} discriminated : {discriminating}/{total}")
+    print(f"groups where {oracle} collapsed     : {collapsed}/{total}")
     print()
     if total and discriminating / total >= 0.6:
-        print("ESMFold USES SEQUENCE CONTEXT, not just spacing.")
+        print(f"{oracle} USES SEQUENCE CONTEXT, not just spacing.")
         print("  The metric is sound for sequence-level claims. Sequence")
         print("  information about pairing exists and is in principle learnable,")
         print("  so a conditioning method targeted at these cases is worth trying.")
     elif total and collapsed / total >= 0.6:
-        print("ESMFold IS READING SPACING, not sequence.")
+        print(f"{oracle} IS READING SPACING, not sequence.")
         print("  Our metric cannot validate any sequence-level topology claim.")
         print("  This explains the null/scramble/swap results without reference")
         print("  to the generator at all, and is a significant limitation of the")
@@ -176,7 +178,7 @@ def analyze(args):
         print("  in its own right. Next step would be a second predictor")
         print("  (AlphaFold/Boltz) to see whether the limitation is universal.")
     else:
-        print("MIXED. ESMFold discriminates in some groups but not others.")
+        print(f"MIXED. {oracle} discriminates in some groups but not others.")
         print("  Report the split, and restrict method claims to the groups")
         print("  where the metric demonstrably discriminates.")
 
@@ -189,9 +191,22 @@ def main():
                     help="sequences to take per (spacing, topology) cell")
     ap.add_argument("--analyze", default=None,
                     help="path to the folded .jsonl, to run the analysis pass")
+    ap.add_argument("--source-json", default=None,
+                    help="the built discrimination-set JSON to pull "
+                         "accessions from (e.g. "
+                         "metric_discrimination_full.json). Defaults "
+                         "to --out if not given -- set this "
+                         "explicitly when analysing a file that was "
+                         "built with a different --out name.")
+    ap.add_argument("--oracle-name", default="ESMFold",
+                    help="label for the folder used, printed in the verdict "
+                         "(e.g. ColabFold, Boltz) -- purely cosmetic, does "
+                         "not change any computation")
     args = ap.parse_args()
 
-    if not os.path.exists(args.input):
+    # --input is only used by build(); analyze() doesn't touch it, so don't
+    # gate on its existence when running --analyze.
+    if not args.analyze and not os.path.exists(args.input):
         print(f"Could not find {args.input}. Run this in the project folder.")
         return
     analyze(args) if args.analyze else build(args)

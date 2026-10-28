@@ -1,0 +1,2102 @@
+[
+  {
+    "template": "SP1@0",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.0,
+    "_rep": 0,
+    "_identity_to_seed": 1.0
+  },
+  {
+    "template": "SP1@10",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AACYSSDCRVKCRAMSFSSGKCIDSKCKCYD",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.1,
+    "_rep": 0,
+    "_identity_to_seed": 0.935
+  },
+  {
+    "template": "SP1@10",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AACYSSDCRVVCRAMGFSSRKCIDSKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.1,
+    "_rep": 1,
+    "_identity_to_seed": 0.935
+  },
+  {
+    "template": "SP1@10",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AACYSSDCRVKCPAMGFSIGKCIDSKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.1,
+    "_rep": 2,
+    "_identity_to_seed": 0.935
+  },
+  {
+    "template": "SP1@20",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AACYFYDCRVKCGAMGFSSMKCIDSKCKCYN",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.2,
+    "_rep": 0,
+    "_identity_to_seed": 0.839
+  },
+  {
+    "template": "SP1@20",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AACFSSDCRVKCRSMGFSNGKCIDSQCKCWK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.2,
+    "_rep": 1,
+    "_identity_to_seed": 0.839
+  },
+  {
+    "template": "SP1@20",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AACYSSDCLVKCRAMGFSYGDCITWKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.2,
+    "_rep": 2,
+    "_identity_to_seed": 0.839
+  },
+  {
+    "template": "SP1@30",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "LACNSSDCRVKCRYMEFSGGKCIDKICKCYL",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.3,
+    "_rep": 0,
+    "_identity_to_seed": 0.742
+  },
+  {
+    "template": "SP1@30",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AACMISDCRVKCYYMGFYYPKCIDSKCKCFK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.3,
+    "_rep": 1,
+    "_identity_to_seed": 0.742
+  },
+  {
+    "template": "SP1@30",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AACHSSDCREKCHVMMFISGKCNESKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.3,
+    "_rep": 2,
+    "_identity_to_seed": 0.742
+  },
+  {
+    "template": "SP1@40",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AMCVSIDCRVPCRAMQFSSEVCIDSLCSCYT",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.4,
+    "_rep": 0,
+    "_identity_to_seed": 0.677
+  },
+  {
+    "template": "SP1@40",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "HACYKSDCDFLCRSMGFSPGKCHGNKCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.4,
+    "_rep": 1,
+    "_identity_to_seed": 0.677
+  },
+  {
+    "template": "SP1@40",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "KRCAHSDCFVKCRAMGFSSGFCEEPVCKCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.4,
+    "_rep": 2,
+    "_identity_to_seed": 0.677
+  },
+  {
+    "template": "SP1@50",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "ESCQDSDCMVFCRAMGTSSGWCIKSHCMCPK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.5,
+    "_rep": 0,
+    "_identity_to_seed": 0.613
+  },
+  {
+    "template": "SP1@50",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AWCYSGVCSVMCRRFGFSHGQCADMKCKCSK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.5,
+    "_rep": 1,
+    "_identity_to_seed": 0.613
+  },
+  {
+    "template": "SP1@50",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "NRCGIADCRVECRNMPFPSGVCIDSKCQCYS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.5,
+    "_rep": 2,
+    "_identity_to_seed": 0.613
+  },
+  {
+    "template": "SP1@60",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AVCYSSECNHKCVNDIWLSGACTYEKCKCSK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.6,
+    "_rep": 0,
+    "_identity_to_seed": 0.516
+  },
+  {
+    "template": "SP1@60",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "IGCMALRCFVKCRATFKWLGICIDEKCVCYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.6,
+    "_rep": 1,
+    "_identity_to_seed": 0.516
+  },
+  {
+    "template": "SP1@60",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "IACYYPDCRVPCRDTGFQIVGCNDDKCQCWS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.6,
+    "_rep": 2,
+    "_identity_to_seed": 0.516
+  },
+  {
+    "template": "SP1@70",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "AWCMSMGCFVFCMVDGVNYGECIRSHCLCMS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.7,
+    "_rep": 0,
+    "_identity_to_seed": 0.419
+  },
+  {
+    "template": "SP1@70",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "ARCTKSWCEVKCYFNGGSEQICSDARCTCID",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.7,
+    "_rep": 1,
+    "_identity_to_seed": 0.419
+  },
+  {
+    "template": "SP1@70",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "QRCQTSKCFLICRVISHYSGGCDWSKCKCGF",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.7,
+    "_rep": 2,
+    "_identity_to_seed": 0.419
+  },
+  {
+    "template": "SP1@80",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "LWCGSTACWEHCRVDTFMQPDCQDSNCGCEE",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.8,
+    "_rep": 0,
+    "_identity_to_seed": 0.355
+  },
+  {
+    "template": "SP1@80",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "PMCEMQECSGRCDEKINSHNKCPMSKCVCVK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.8,
+    "_rep": 1,
+    "_identity_to_seed": 0.355
+  },
+  {
+    "template": "SP1@80",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "HECISFDCFNKCTWVKPSGNNCIQFRCRCFY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.8,
+    "_rep": 2,
+    "_identity_to_seed": 0.355
+  },
+  {
+    "template": "SP1@90",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "HWCFRRPCSFACSTGNMFSEKCAFSECSCTS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.9,
+    "_rep": 0,
+    "_identity_to_seed": 0.29
+  },
+  {
+    "template": "SP1@90",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "HDCPAHGCYPPCIANGMMSVGCNTVHCPCPL",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.9,
+    "_rep": 1,
+    "_identity_to_seed": 0.29
+  },
+  {
+    "template": "SP1@90",
+    "template_sequence": "AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK",
+    "sequence": "SDCQERNCRVECSTDYLSWHECARPSCNCPG",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.9,
+    "_rep": 2,
+    "_identity_to_seed": 0.29
+  },
+  {
+    "template": "SP1@0",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.0,
+    "_rep": 0,
+    "_identity_to_seed": 1.0
+  },
+  {
+    "template": "SP1@10",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCVYRTCDKDCKPRGSRSGKCINNACKCIPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.1,
+    "_rep": 0,
+    "_identity_to_seed": 0.906
+  },
+  {
+    "template": "SP1@10",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCLYRTCDKDCHRRGYRFGKCINNACKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.1,
+    "_rep": 1,
+    "_identity_to_seed": 0.906
+  },
+  {
+    "template": "SP1@10",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCVGRTCDKDCKRRGYRSGTCIRNACKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.1,
+    "_rep": 2,
+    "_identity_to_seed": 0.906
+  },
+  {
+    "template": "SP1@20",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCVYRNCDQDCKRRGGTSGKCINNACKCYWY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.2,
+    "_rep": 0,
+    "_identity_to_seed": 0.844
+  },
+  {
+    "template": "SP1@20",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCAYRTCAKDCKRRGYRTGKCINMACKCYTY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.2,
+    "_rep": 1,
+    "_identity_to_seed": 0.844
+  },
+  {
+    "template": "SP1@20",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCVGRTCNKDCYRRGYRSGKCINVACKCYSY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.2,
+    "_rep": 2,
+    "_identity_to_seed": 0.844
+  },
+  {
+    "template": "SP1@30",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "RVCFYRTCDAWCKRRRYRDGMCINNMCKCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.3,
+    "_rep": 0,
+    "_identity_to_seed": 0.75
+  },
+  {
+    "template": "SP1@30",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCWERTCGKNCPRYGYDSGKCINNACKCLPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.3,
+    "_rep": 1,
+    "_identity_to_seed": 0.75
+  },
+  {
+    "template": "SP1@30",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCYYRICDGDCSRRGFRSRKCINYACKCYWY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.3,
+    "_rep": 2,
+    "_identity_to_seed": 0.75
+  },
+  {
+    "template": "SP1@40",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCVRPVCDKRCTRYGYGSGKCNNNACKCFRY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.4,
+    "_rep": 0,
+    "_identity_to_seed": 0.688
+  },
+  {
+    "template": "SP1@40",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AQCVYRTCHKDCWPRGYAVAKCINNACICTDY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.4,
+    "_rep": 1,
+    "_identity_to_seed": 0.688
+  },
+  {
+    "template": "SP1@40",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "KRCASRTCDKDCKRFNYRSGKCINNMCGCYKM",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.4,
+    "_rep": 2,
+    "_identity_to_seed": 0.688
+  },
+  {
+    "template": "SP1@50",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCDQKQCDKDCKTRQTISGKCTNRKCHCYSY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.5,
+    "_rep": 0,
+    "_identity_to_seed": 0.594
+  },
+  {
+    "template": "SP1@50",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AWCRYRSCDNDCTRDGTRSGKCINQYCVCLSV",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.5,
+    "_rep": 1,
+    "_identity_to_seed": 0.594
+  },
+  {
+    "template": "SP1@50",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "GYCNYRICSKRCEKNGYRSGPCINYTCLCYPY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.5,
+    "_rep": 2,
+    "_identity_to_seed": 0.594
+  },
+  {
+    "template": "SP1@60",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "RTCDEVTCQKWCKMKGAMSMKCYMNACKCYTS",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.6,
+    "_rep": 0,
+    "_identity_to_seed": 0.5
+  },
+  {
+    "template": "SP1@60",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "ARCTKPTCPGDCYRRGWDQSFCIKLACHCYPM",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.6,
+    "_rep": 1,
+    "_identity_to_seed": 0.5
+  },
+  {
+    "template": "SP1@60",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "MFCVQRTCLKECNRRLYASYSCIHWQCICYSF",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.6,
+    "_rep": 2,
+    "_identity_to_seed": 0.5
+  },
+  {
+    "template": "SP1@70",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AVCGEIWCDQDCPHRGGISRYCVAGICGCYAV",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.7,
+    "_rep": 0,
+    "_identity_to_seed": 0.438
+  },
+  {
+    "template": "SP1@70",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "RVCVEAMCDTKCMRHYGNNGKCVVNACRCMYK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.7,
+    "_rep": 1,
+    "_identity_to_seed": 0.438
+  },
+  {
+    "template": "SP1@70",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "QPCRYDECAALCGDNGSDRGICINNDCLCYPT",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.7,
+    "_rep": 2,
+    "_identity_to_seed": 0.438
+  },
+  {
+    "template": "SP1@80",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "LSCVGHGCESLCWGAPEHAGFCYHWFCKCYHY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.8,
+    "_rep": 0,
+    "_identity_to_seed": 0.344
+  },
+  {
+    "template": "SP1@80",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "WYCDQRQCVTVCYQYNPDVGDCINMACACALF",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.8,
+    "_rep": 1,
+    "_identity_to_seed": 0.344
+  },
+  {
+    "template": "SP1@80",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "AHCVQVACHKYCDMGDNRSQQCAHMPCTCPSG",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.8,
+    "_rep": 2,
+    "_identity_to_seed": 0.344
+  },
+  {
+    "template": "SP1@90",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "SGCNWMTCYDYCSAQGNWLSGCTWIMCACYQK",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.9,
+    "_rep": 0,
+    "_identity_to_seed": 0.281
+  },
+  {
+    "template": "SP1@90",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "KACMQEECRQRCMRHAYRLTDCKSVSCRCNLR",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.9,
+    "_rep": 1,
+    "_identity_to_seed": 0.281
+  },
+  {
+    "template": "SP1@90",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY",
+    "sequence": "MDCMYAGCEDRCHGDSGVGGWCYRWACPCTGN",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.9,
+    "_rep": 2,
+    "_identity_to_seed": 0.281
+  },
+  {
+    "template": "SP1@0",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.0,
+    "_rep": 0,
+    "_identity_to_seed": 1.0
+  },
+  {
+    "template": "SP1@10",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AVCVYRTCDKDCKRRGYRSGHCINNACQCYPYR",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.1,
+    "_rep": 0,
+    "_identity_to_seed": 0.909
+  },
+  {
+    "template": "SP1@10",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AVCVYRTCDKDCKRRGYRSGKCENNACKCYPEY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.1,
+    "_rep": 1,
+    "_identity_to_seed": 0.909
+  },
+  {
+    "template": "SP1@10",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AVCVYRICDKPCKRRGYRSGKCINNACKCYPYM",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.1,
+    "_rep": 2,
+    "_identity_to_seed": 0.909
+  },
+  {
+    "template": "SP1@20",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AVCVYRTCDKTCKRRGYDSHKCINNACGCYPWA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.2,
+    "_rep": 0,
+    "_identity_to_seed": 0.848
+  },
+  {
+    "template": "SP1@20",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AKCVYRICDKDCKRRGYRSTKCENPACKCYPYA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.2,
+    "_rep": 1,
+    "_identity_to_seed": 0.848
+  },
+  {
+    "template": "SP1@20",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AVCVYRYCDKDCKRRGYGSVKCINNACDCYPNA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.2,
+    "_rep": 2,
+    "_identity_to_seed": 0.848
+  },
+  {
+    "template": "SP1@30",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "WVCSFRTCDKDCKQRGGRSPQCINNACKCYPPA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.3,
+    "_rep": 0,
+    "_identity_to_seed": 0.758
+  },
+  {
+    "template": "SP1@30",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "EVCVYMRCDKDCKIRGYRSGKCIHNACKCDPQE",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.3,
+    "_rep": 1,
+    "_identity_to_seed": 0.758
+  },
+  {
+    "template": "SP1@30",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "ARCMYRTCDKDCKRLGSHSGKCITLACKCYPYD",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.3,
+    "_rep": 2,
+    "_identity_to_seed": 0.758
+  },
+  {
+    "template": "SP1@40",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "FVCSTRQCAKDCKRYPYRSGKCINYACVCDPLA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.4,
+    "_rep": 0,
+    "_identity_to_seed": 0.667
+  },
+  {
+    "template": "SP1@40",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "WHCQAHTCDKDCKNHGYRGDKCINMACKCWPYA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.4,
+    "_rep": 1,
+    "_identity_to_seed": 0.667
+  },
+  {
+    "template": "SP1@40",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "LSCVYRKCDHDCKPRSYRHGKCIKMPCKCYKYA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.4,
+    "_rep": 2,
+    "_identity_to_seed": 0.667
+  },
+  {
+    "template": "SP1@50",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "GVCVYAGCDKDCKRNDYKSGKCWPSRCGCASDA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.5,
+    "_rep": 0,
+    "_identity_to_seed": 0.576
+  },
+  {
+    "template": "SP1@50",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AVCTLKTCLKDCKRVLEPSRRCWNNACKCWPLR",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.5,
+    "_rep": 1,
+    "_identity_to_seed": 0.576
+  },
+  {
+    "template": "SP1@50",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "RSCRNRTCDSGCKHHIYRQGKCIAVACKCYTRA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.5,
+    "_rep": 2,
+    "_identity_to_seed": 0.576
+  },
+  {
+    "template": "SP1@60",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AICGMDTCDKDCNRYGYRLDKCPGSSCQCQRYG",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.6,
+    "_rep": 0,
+    "_identity_to_seed": 0.515
+  },
+  {
+    "template": "SP1@60",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "HVCFNHWCDKDCKRANTNSYPCQKNSCMCYPYW",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.6,
+    "_rep": 1,
+    "_identity_to_seed": 0.515
+  },
+  {
+    "template": "SP1@60",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AFCVYGTCEWDCIPLAYAQGFCIHNFCGCVFYA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.6,
+    "_rep": 2,
+    "_identity_to_seed": 0.515
+  },
+  {
+    "template": "SP1@70",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AQCDIRTCDHHCKSLEKQWGRCAPTTCKCHRYD",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.7,
+    "_rep": 0,
+    "_identity_to_seed": 0.424
+  },
+  {
+    "template": "SP1@70",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AECMQFFCDKSCKRRVGTEHMCLVQHCKCEPDY",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.7,
+    "_rep": 1,
+    "_identity_to_seed": 0.424
+  },
+  {
+    "template": "SP1@70",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "DTCVEVKCLNSCKRPQYENGMCNRGLCWCYPYL",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.7,
+    "_rep": 2,
+    "_identity_to_seed": 0.424
+  },
+  {
+    "template": "SP1@80",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "AVCKHKVCGRLCNQTQYTMRKCPWNGCRCTTGG",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.8,
+    "_rep": 0,
+    "_identity_to_seed": 0.333
+  },
+  {
+    "template": "SP1@80",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "LACDYWECGHSCHPRYGIFPKCINITCRCAAED",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.8,
+    "_rep": 1,
+    "_identity_to_seed": 0.333
+  },
+  {
+    "template": "SP1@80",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "HNCVYSECRMGCIYFMFWAGWCIWWKCGCTFFA",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.8,
+    "_rep": 2,
+    "_identity_to_seed": 0.333
+  },
+  {
+    "template": "SP1@90",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "EVCMVVRCGELCDVWTGTKGMCPVNQCICGMGL",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.9,
+    "_rep": 0,
+    "_identity_to_seed": 0.273
+  },
+  {
+    "template": "SP1@90",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "EMCVVNICVVGCIGSDNTYTKCGVILCDCYAKL",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.9,
+    "_rep": 1,
+    "_identity_to_seed": 0.273
+  },
+  {
+    "template": "SP1@90",
+    "template_sequence": "AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA",
+    "sequence": "NYCTQMQCFVACKGIKYYEEECIWYDCSCRIRQ",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "constraints_respected": true,
+    "n_cys": 6,
+    "_seed": "SP1",
+    "_frac": 0.9,
+    "_rep": 2,
+    "_identity_to_seed": 0.273
+  }
+]

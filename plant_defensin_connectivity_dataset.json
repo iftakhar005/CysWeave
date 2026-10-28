@@ -1,0 +1,6306 @@
+[
+  {
+    "accession": "C0HK49",
+    "mature_sequence": "KDCKRESNTFPGICITKPPCRKACIREKFTDGHCSKILRRCLCTKPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P30230",
+    "mature_sequence": "QKLCQRPSGTWSGVCGNNNACKNQCIRLEKARHGSCNYVFPAHKCICYFPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q4VP08",
+    "mature_sequence": "TLINGSSDEERTYSFSPTTSPFDPRSLNQELKIGRIGYCFDCARACMRRGKYIRTCSFERKLCRCSISDIK",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q6K209",
+    "mature_sequence": "RHCLSQSHRFKGMCVSSNNCANVCRTESFPDGECKSHGLERKCFCKKVC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P0CAY6",
+    "mature_sequence": "ILINESSDEQRIYSFSPTTSPFDPRSLNQELKIGRIGYCFDCARACMRRGKYIRTCSFERKLCRCSISDIK",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "P30224",
+    "mature_sequence": "QKLCERPSGTWSGVCGNSNACKNQCINLEKARHGSCNYVFPAHKCICYFPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P56552",
+    "mature_sequence": "QDKCKKVYENYPVSKCQLANQCNYDCKLDKHARSGECFYDEKRNLQCICDYCEY",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P69241",
+    "mature_sequence": "QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P80957",
+    "mature_sequence": "NPLIPAIYIGATVGPSVWAYLVALVGAAAVTAANIRRASSDNHSCAGNRGWCRSKCFRHEYVDTYYSAVCGRYFCCRSR",
+    "pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "P83399",
+    "mature_sequence": "RVCESQSHGFKGACTGDHNCALVCRNEGFSGGNCRGFRRRCFCTLKC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q42328",
+    "mature_sequence": "QGNECLKEYGGDVGFGFCAPRIFPTICYTRCRENKGAKGGRCRWGQGSNVKCLCDFCDDTPQ",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q4VP09",
+    "mature_sequence": "ILIKESSEEERIYPFNPVASPFDPRSLNQILKIGKIGYCFDCARACMRRDRYIRTCSFERKLCRCSYSHIHHTHG",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q4VP10",
+    "mature_sequence": "ILINESSDEERTYSFSPTTSPFDPRSLNQELKIGRIGYCFDCARACMRRGKYIRTCSFERKLCRCSISGIK",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q8GTM0",
+    "mature_sequence": "RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q8H6Q1",
+    "mature_sequence": "ATCKAECPTWDSVCINKKPCVACCKKAKFSDGHCSKILRRCLCTKEC",
+    "pairs": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        6,
+        9
+      ]
+    ]
+  },
+  {
+    "accession": "Q9FI23",
+    "mature_sequence": "QKLCEKPSGTWSGVCGNSNACKNQCINLEGAKHGSCNYVFPAHKCICYVPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "B3F051",
+    "mature_sequence": "KTCENLSDSFKGPCIPDGNCNKHCKEKEHLLSGRCRDDFRCWCTRNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "C0HL82",
+    "mature_sequence": "KICERASGTWKGICIHSNDCNNQCVKWENAGSGSCHYQFPNYMCFCYFDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "C0HL83",
+    "mature_sequence": "KICERASGTWKGICIHSNDCNNQCVKWENAGSGSCHYQFPNYMCFCYFNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "C0HM23",
+    "mature_sequence": "KFCERPSGTWAGVCGNNGKCKDQCIRLEKAKHGSCKYKFPAHRCVCYYEC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "O22866",
+    "mature_sequence": "QGSKCLKEYGGNVGFSYCAPRIFPSFCYRNCRKNKGAKGGRCRSGGAGAGSMICLCDYCSDKP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "O22867",
+    "mature_sequence": "KDKECLKGYIDAPLSYCMARIYPSLCYRNCRFYKGAKGGKCDGLKCFCDFCSDKPF",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "O22869",
+    "mature_sequence": "KDDKFICVVEYGGDVGPTFCNPKFFPTLCRQNCRSFKGAKGGKCVKQPKHKHIKCFCDYCKDD",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "O65740",
+    "mature_sequence": "RTCESQSHRFKGLCFSKSNCGSVCHTEGFNGGHCRGFRRRCFCTRHC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "O80994",
+    "mature_sequence": "QKLCEKPSGTWSGVCGNSNACKNQCINLEGAKHGSCNYVFPAHKCICYVPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "O80995",
+    "mature_sequence": "QKLCEKPSGTWSGVCGNSNACKNQCINLEGAKHGSCNYVFPAHKCICYFPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P30231",
+    "mature_sequence": "QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P30232",
+    "mature_sequence": "QKLCQRPSGTWSGVCGNNNACRNQCINLEKARHGSCNYVFPAHKCICYFPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P32026",
+    "mature_sequence": "RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKLLRRCLCTKPCVFDEKMIKTGAETLVEEAKTLAAALLEEEIMDN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P80301",
+    "mature_sequence": "DSECLKEYGGDVGFGFCAPRIYPSFCVQRCRADKGALSGKCIWGQGSNVKCLCNFCRHEP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P81571",
+    "mature_sequence": "GIFSSRKCKTPSKTFKGICTRDSNCDTSCRYEGYPAGDCKGIRRRCMCSKPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P81929",
+    "mature_sequence": "KTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHNWKCFCTQNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P81930",
+    "mature_sequence": "KTCENLSGTFKGPCIPDGNCNKHCRNNEHLLSGRCRDDFRCWCTNRC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82787",
+    "mature_sequence": "TEMMAVEGRICERRSKTWTGFCGNTRGCDSQCKRWERASHGACHAQFPGFACFCYFNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P84920",
+    "mature_sequence": "KTCMTKKEGWGRCLIDTTCAHSCRKYGYMGGKCQGITRRCYCLLNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P86972",
+    "mature_sequence": "KFCEKPSGTWSGVCGNSGACKDQCIRLEGAKHGSCNYKPPAHRCICYYEC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P86973",
+    "mature_sequence": "KFCEKPSGTWSGVCGNSGACKDQCIRLEGAKHGSCNYKLPAHRCICYYEC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q10989",
+    "mature_sequence": "QKLCARPSGTWSSGNCRNNNACRNFCIKLEKSRHGSCNIPFPSNKCICYFPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q39182",
+    "mature_sequence": "RTCESQSHRFKGTCVSASNCANVCHNEGFVGGNCRGFRRRCFCTRHC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q41914",
+    "mature_sequence": "RTCASQSQRFKGKCVSDTNCENVCHNEGFPGGDCRGFRRRCFCTRNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q43413",
+    "mature_sequence": "KICEALSGNFKGLCLSSRDCGNVCRREGFTDGSCIGFRLQCFCTKPCA",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q56XC2",
+    "mature_sequence": "TTAGRRDGKSGRTEWLYVAGECAKLPRCNKYCVSNGFHLGGFCEKLSPQASYLSCVCKYT",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q8H6Q0",
+    "mature_sequence": "GTCKAECPTWEGICINKAPCVKCCKAQPEKFTDGHCSKILRRCLCTKPC",
+    "pairs": [
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        6,
+        9
+      ]
+    ]
+  },
+  {
+    "accession": "Q8RYE7",
+    "mature_sequence": "HDSECLKEYGGDVGFGFCAPKIFPTICYRNCQKDKGANGGKCLWGEGGKVKCLCDFCSNESFNQFISLT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9C947",
+    "mature_sequence": "RTCETSSNLFNGPCLSSSNCANVCHNEGFSDGDCRGFRRRCLCTRPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9FFP8",
+    "mature_sequence": "RTCQSKSHHFKYMCTSNHNCAIVCRNEGFSGGRCHGFHRRCYCTRLC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9FI22",
+    "mature_sequence": "QKLCEKPSGTWSGVCGNSNACKNQCINLEGAKHGSCNYVFPAHKCICYVPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9FZ31",
+    "mature_sequence": "ELCKRESETWSGRCVNDYQCRDHCINNDRGNDGYCAGGYPWYRSCFCFFSC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9ZUL7",
+    "mature_sequence": "RTCESKSHRFKGPCVSTHNCANVCHNEGFGGGKCRGFRRRCYCTRHC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9ZUL8",
+    "mature_sequence": "RTCESPSNKFQGVCLNSQSCAKACPSEGFSGGRCSSLRCYCSKAC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "A3FPF2",
+    "mature_sequence": "RTCESQSHRFKGACLSDTNCASVCQTEGFPAGDCKGARRRCFCVKPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "A4L7R7",
+    "mature_sequence": "RMCKTPSGKFKGYCVNNTNCKNVCRTEGFPTGSCDFHVAGRKCYCYKPCP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "A4L7R8",
+    "mature_sequence": "RMCKTPSAKFKGYCVSSTNCKNVCRTEGFPTGSCDFHITSRKCYCYKPCP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "A8MQN0",
+    "mature_sequence": "RMTTASTPGYGIKQEDRLCIQGQEGTKLCSSGTSRDCLNFCLIRGYAGGSCYAYTLDQCCCRIPPPKLK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "B5LZ79",
+    "mature_sequence": "RLCRVRGTRGHCFNDHGCDKVCTREGFVRGKCNGILRRCICDRQC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "O24115",
+    "mature_sequence": "KSTCKAESNTFPGLCITKPPCRKACLSEKFTDGKCSKILRRCICYKPCVFDGKMIQTGAENLAEEAETLAAALLEEEMMDN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "O24331",
+    "mature_sequence": "QKLCERSSGTWSGVCGNNNACKNQCINLEGARHGSCNYIFPYHRCICYFPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "O24332",
+    "mature_sequence": "KLCERSSGTWSGVCGNNNACKNQCIRLEGAQHGSCNYVFPAHKCICYFPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P0C8Y4",
+    "mature_sequence": "ELCEKASKTWSGNCGNTGHCDNQCKSWEGAAHGACHVRNGKHMCFCYFNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P0C8Y5",
+    "mature_sequence": "DGVKLCDVPSGTWSGHCGSSSKCSQQCKDREHFAYGGACHYQFPSVKCFCKRQC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P0CAY5",
+    "mature_sequence": "LYMCVSSTCVIQWCAIQCKRKEANGIGTCKPRPNQGKIQYRKLKEECHCVYKCS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P0CAY7",
+    "mature_sequence": "RNLCKTDEDCVLRCQDPGANCILGICHCSRQQVETELTKVIRCKTDRDCPDSHQCPKDYYYACLNNGECTCISV",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        8,
+        11
+      ],
+      [
+        9,
+        12
+      ]
+    ]
+  },
+  {
+    "accession": "P18646",
+    "mature_sequence": "QSEAKTCENLVDTYRGPCFTTGSCDDHCKNKEHLLSGRCRDDVRCWCTRNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P20158",
+    "mature_sequence": "KICRRRSAGFKGPCMSNKNCAQVCQQEGWGGGNCDGPFRRCKCIRQC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P20159",
+    "mature_sequence": "KVCRQRSAGFKGPCVSDKNCAQVCLQEGWGGGNCDGPFRRCKCIRQC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P20230",
+    "mature_sequence": "RICRRRSAGFKGPCVSNKNCAQVCMQEGWGGGNCDGPLRRCKCMRRC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P20346",
+    "mature_sequence": "GPMRIAEARHCESLSHRFKGPCTRDSNCASVCETERFSGGNCHGFRRRCFCTKPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P21923",
+    "mature_sequence": "RVCMGKSQHHSFPCISDRLCSNECVKEEGGWTAGYCHLRYCRCQKAC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P21924",
+    "mature_sequence": "RVCMGKSAGFKGLCMRDQNCAQVCLQEGWGGGNCDGVMRQCKCIRQCW",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P21925",
+    "mature_sequence": "RVCRRRSAGFKGLCMSDHNCAQVCLQEGWGGGNCDGVIRQCKCIRQC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P81008",
+    "mature_sequence": "RVCRRRSAGFKGVCMSDHNCAQVCLQEGYGGGNCDGIMRQCKCIRQC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P81009",
+    "mature_sequence": "RVCMGKSQHHSFPCISDRLCSNECVKEDGGWTAGYCHLRYCRCQKAC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P81456",
+    "mature_sequence": "LLGRCKVKSNRFHGPCLTDTHCSTVCRGEGYKGGDCHGLRRRCMCLC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P81457",
+    "mature_sequence": "LLGRCKVKSNRFNGPCLTDTHCSTVCRGEGYKGGDCHGLRRRCMCLC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P81493",
+    "mature_sequence": "AICKKPSKFFKGACGRDADCEKACDQENWPGGVCVPFLRCECQRSC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82010",
+    "mature_sequence": "ATCRKPSMYFSGACFSDTNCQKACNREDWPNGKCLVGFKCECQRPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82621",
+    "mature_sequence": "KTKWGCDMNRPFPGKCGTNGKDTCISDIKKMPGAPKDLVVRCECSQRFVWKGYPPERLCKCQYDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82622",
+    "mature_sequence": "ANKRCHLNQMFTGKCGNDGNKACLGDFKNKRFRYDLCQCTDATQISPSLPPQRVCNCSRPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82623",
+    "mature_sequence": "EESSMNIDAQRRPWCPSKKQVFGGSCGNDGAQQCLNNLLSTWDPSVRLSPVSCNCTPQPNNNILCSCPNMICP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82624",
+    "mature_sequence": "EESRMNINAERRPWCPSKIQMFDTNCEVDGAKQCLDLLISTWDPSVRLTRVSCICSDFPYRNMMCSCPNMICP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82625",
+    "mature_sequence": "EKLSMDPTRRPWCPSKKQMFGGNCGNDGDSLCLMLLAASWDESLRHSSISCNCTTYPNYKILCSCPNMICP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82626",
+    "mature_sequence": "EAAGERRQWCPSKQQVFRGSCSDDGGQKCLNDLLWTWNPSVRLSPIYCDCTPKRHNKRLCDCPSMICL",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82628",
+    "mature_sequence": "HLSHEEPMKEPEYCRWTNAFNGTCSDRGNPQTMCFFDFLDAHTARVMPKNCACNDLPGNKRYCECSFVCNS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82630",
+    "mature_sequence": "KELKWCPSKDVFNGSCTDTGSPSYTCFLDLLGSKSASAMPKNCKCTPLPHNRRQCDCFVVCDSN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82631",
+    "mature_sequence": "QRLVPLCKTIGYENPGKCPADGNKFCRRKLDDRYVKYKRCDCQDTKGRKQNHHRCICYMKLPCNQ",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82632",
+    "mature_sequence": "QRRKPVCKLTGVLNPGKCPTAIHDASNLCSRKLASPNMTFKRCDCQNTEWRGKDHYQCTCYIKLPCNQ",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82633",
+    "mature_sequence": "VLKPMDQCGRKDIFLGGCGSNGSKTCINDFVKKGGVAAKPSSCECDDFGEEHLCRCYVPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82634",
+    "mature_sequence": "EVEPVPYCKVITWYDVKCGADGNKTCVDHLIKGHIYDVPVCDCSELTTSGILCTCQHRFPCKEPPPLHRISIRKQIRG",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82635",
+    "mature_sequence": "QVKPTGCQGGQRYRGKCGTNGTKTCVKDMMLPKLFKTKRCDCQDMLGTFKGWHFCTCYSGRPGC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82636",
+    "mature_sequence": "GLIRECDYTMEGYGPCGPNGRSLCLDTFWKTPPSPGLSKNLEGCRCEDRGKRPPIFTGLSHTCRCCWSYGGGSDD",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82637",
+    "mature_sequence": "GLVRICNHRIEGYGTCGPNGRKICLDAFWKNQPSPGLSKNLEGCQCEDRRKRPQFKGLSHSCSCCWSYQGNSDE",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82638",
+    "mature_sequence": "RTIRICDRKVEGNGTCGPNSNNICLDEFWKNPPSPRLAKSLEGCTCEPRGKRPKFKGLSHVCWCCWSYNSSNPAG",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82639",
+    "mature_sequence": "QGKKKPPCPLGLSANGKCGHDGPKLCFSEMERKFNKDVVKTITHCKCWDDRRNNVDKHRCTCYLKHGFPCTNG",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82640",
+    "mature_sequence": "QAKKKRCPIGLHTYGKCGTDRAKFCFSEIESKLSFSKQVLNTISSCRCDDDRQGNKDLYWCQCDRREGRPCPAN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82641",
+    "mature_sequence": "GAPPQDCWNLVTFPAKCGIHGKKKCFKEMESKYQQRFLQCTCKNLKPEPKSPKDEHDCTCQRANPYECNS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82642",
+    "mature_sequence": "GAPPVECWSEILFSGKCGFHGKKKCYKEMESKLKQRVLKCRCEDVKKDSNTSKDEHYCGCQRENPYECN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82643",
+    "mature_sequence": "EKLCTTIGDLDGKCSQDGEKLCMRYMTDQSKKKFLSCTCNNVVMLHKYKHYCECQSHCTPKQT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82644",
+    "mature_sequence": "KELCNRIEDIDGNCDFEGEKGCLKFMTNKYKKERHVSCTCTNLYMLHKTKRFCDCKHRCSG",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82645",
+    "mature_sequence": "GLDPMAANLRVRKDIFIGGCGRDGNKTCMKDFVKKGGVMNKPISCECDNLGYEHLCRCNFS",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "P82646",
+    "mature_sequence": "HVREVKSVETKAKRVKKVCEKAQVFEQNCGWDGNKTCIRGFNKIKEYPFHCECGIYDAPNSRRICKCKFPYSPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82647",
+    "mature_sequence": "IHVEQAGVCEFTGEFPGKCGNNGRKMCVEAMNKKNKGSPGENKKNLRCECFDNPVVILGRPKRICRCRNNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82659",
+    "mature_sequence": "NEMGGPLVVEARTCESQSHKFKGTCLSDTNCANVCHSERFSGGKCRGFRRRCFCTTHC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82716",
+    "mature_sequence": "NVQQKRSNRCIDFPVNPKTGLCVLKDCESVCKKTSKGLEGICWKFNAKGKDPKQCKCCGLWPPLY",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82717",
+    "mature_sequence": "NLQQRRQMNQTWCSRPLLTHKQTGKCVIEDCESKCRQKWKGNGTQATCRNQCNCHFRCPWIQGQP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82719",
+    "mature_sequence": "NVEQKSQDWCWSIVNKDRCLQKECESLCSKKHPKGKFMCIPSTPGGPFQCHCRHPCR",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82721",
+    "mature_sequence": "QHAMCHEILPETDCGAGSCTALCLQLWRGTGKCVRTNDQKLICLCNFECIV",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82722",
+    "mature_sequence": "QPLGTMERCYDMLTWGECVPDNCAFSCALKRHGKGGCIKAYDNRPACVCYYTCLRS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82723",
+    "mature_sequence": "QHICHQILLNNNCDGATCTSLCDKQLQGTGQCYKTVDKRFICLCNYLCRT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82724",
+    "mature_sequence": "NVQQVKREQCHTVIPNKSGKCIFTECKSACEKLKKPVASLCLPPKTCRCYHFCS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82726",
+    "mature_sequence": "KQRLCIKVLTNASHVSKGASTCDSKLCTSLCEKISPQGVSFCKPIATTGQSKKGNPVCNCRYWCRSDGTPHTT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82727",
+    "mature_sequence": "QKRCRQELEPGKQCVLAKCRELCFKQLKGFGSCIEKPPGSSKYTCNCFYNCGPPGFF",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82728",
+    "mature_sequence": "DTCHEYLYPEKCENNQCNSECATKFKEVGVFGFCVPPRSEPTEQFCICSYNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82729",
+    "mature_sequence": "NMSVDQKRCWATLKENNCVHDECRSMCLKKNPKGHGRCIKSSKGRIICLCGYDCP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82730",
+    "mature_sequence": "QPLEEMVECKEVLWPEECKYDACAFACALKRHGKGGCLEGPDYRSACICQYACKRS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82731",
+    "mature_sequence": "ANCVNYFEITFPEVCEANWCAAECLKAYKNGKGTCWQKFCQCVYDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82732",
+    "mature_sequence": "NKKMVGEAKKCDQTWTCEGEDKCREKCLTLHNGVGVCDLYTAPLVPKQCFCHYDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82734",
+    "mature_sequence": "QNAICQKFLSETDCGAGSCTALCLQLWKGIGKCIKTDDHKLLCLCKYECIV",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82735",
+    "mature_sequence": "KRHCSTIILPESPCVPQDCVEYCFEEYNGGGTCIASKTGRTTNCMCTYNCHGNNL",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82737",
+    "mature_sequence": "DQTDKYCTIIIDPRTPCDLVDCRLSCYTGYNGVGKCIASKASRTPNCVCTYNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82739",
+    "mature_sequence": "KRCHLTIDKATACSLSDCRLSCYSGYNGVGKCFDDPKVAGPSNCGCIYNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82743",
+    "mature_sequence": "SIFIKYSDRTCHVYIKAENCEIDQCNWECGTKYKRVGVQGLCVPPGFDPIDQACLCSFNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82744",
+    "mature_sequence": "HICHDYLEGDHCDPKDCNLDCRDKWKGTGTCEPPTGTPLTRTCYCTYDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82745",
+    "mature_sequence": "QELCHDYMSGTELCEEDKCVAKCIWMHGTAAKGTCMPKPSKQCVCTYSCNA",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82746",
+    "mature_sequence": "KVPCLSRMFNKNNTCSFLRCEANCARKYKGYGDCRPGDRPHDKKDSLFCFCNYPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82747",
+    "mature_sequence": "DVDQGYKQQCYKTIDVNLCVTGECKKMCVRRFKQAAGMCIKSVPSAPAPNRCRCIYHC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82748",
+    "mature_sequence": "NDEQLRGNRCFQIKFKTGKCVPKECQTACQEKLRKPKLKGEGFCMKECTCCFYT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82749",
+    "mature_sequence": "EKLTTCSRFLSQKSGKCVKEDCDRMCKQKWPGKYTVGHCYGQFKDAKRCLCSVCGPDRQPP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82750",
+    "mature_sequence": "VVEKAKGDGSCTIIIDPKAPSCDIIQCRLSCITDYNGLAECIASRIGSPPNCVCTYDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82751",
+    "mature_sequence": "DKRCSIIIDLSPCYPIECRLSCITERNGDGECVVSKVGSTPNCLCTYDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82752",
+    "mature_sequence": "GATIKKCVVDVKLSKPCTFQECQPLCLQKYNGNGLCPGDDNNICACVYNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82753",
+    "mature_sequence": "KQLKTCTSVIKLGHPCDIESCLNECFRVYNTGFATCRGDKYSQLCTCEYNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82754",
+    "mature_sequence": "KTCSDGWTCLGPKEEDKCKENCMAKHKGVGTCNLYTIPEFPAPITYYMCDCMFDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82755",
+    "mature_sequence": "KTCSDGWTCVGEDKCKVNCMAKHKGVGTCTLYIIPSFPAPITSYICDCMFDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82756",
+    "mature_sequence": "ENGIMIGEAKKCSNSWICEGDEKCKEKCMADYKGNGTCYYPSPPSKQHPEFFYPTCWCGFDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82758",
+    "mature_sequence": "QKECIGPCDMFTDCQAACVGIRKGYNYGQCVAWKPKDDDPFTCCCYKLTP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82759",
+    "mature_sequence": "EPQCIGSCEMLADCNTACIRMGYLFGQCVGWKTPDMCCCNH",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82760",
+    "mature_sequence": "ITVQADCIGPCNDDCQQLCKSKGYTDWTCASFRTKSSCCCKPPRHQIFEQNAQLNN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82761",
+    "mature_sequence": "QIITCLPGECTNPSECNAACKSNGYKGGACVSMSIGSTTGACCCKPNFKSQDSFKSNDIIINNN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82762",
+    "mature_sequence": "FTIAEPYIHPCMKGFCSFKSECANKCIFMGHHKGGDCIGGLDGIYCCCLA",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82763",
+    "mature_sequence": "SEIKAKINGLECFNTCTSYYDDHKCNVDCLSSGYPAGECYTVSPSQPKKCCCY",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82764",
+    "mature_sequence": "SEIKAKINGLECFNTCTPYYDDYKCNVDCLSSGYPAGDCHIVSPSQPKKCCCY",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82765",
+    "mature_sequence": "SDDTQGFGIKQEYKQCYTPDPCRKGGNDECERFCVAKSGLLYGKCINDGSKDVCCCLTK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82766",
+    "mature_sequence": "QEMCRDILMKAKNCDEGTCDTLCKQKWKGNGSCFPNVYTYRKSCLCTFPCKT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82767",
+    "mature_sequence": "QEMCRDLLMRAKNCDDSTCATLCKQKWKGNGSCFPNVYRKSCLCTFPCKT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82768",
+    "mature_sequence": "EEKQCYDYLLTPQENCEGLICAHECTMQHGGNGVCVDTTSTVCICTYDCTS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82769",
+    "mature_sequence": "QETCHDLIMKRDCDEATCVNMCQQKWKGSGGSCFQNFNVMSCICNFPCQV",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82770",
+    "mature_sequence": "QEMCHDLIKKTDCDDATCVTLCKQKWNGNGGGSCFQIVNLKSCLCAFPCQV",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82774",
+    "mature_sequence": "NMGCTATMGPCEKDKSCSATCRATFGDRANGFCDYSTSTSPGGECTCVYHCPPVVPHESHL",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82775",
+    "mature_sequence": "NMGCMAVLGSCGVITDCSGECISRFGPQARGYCDRDGGSGTCVCVYPCPADKPHM",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82776",
+    "mature_sequence": "NMGCMAVLGSCGVITDCSGSCKTKFGQDASGDCDRDGGQGTCMCGYPCPHDKLHM",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82777",
+    "mature_sequence": "NMGCIQIIGRCIKIPDCSASCRKFLGPHASGYCDNDGAGGTCICTYPCQTKEIHM",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82778",
+    "mature_sequence": "NMGCNDYIVGDVCVHCRERCLRYYPVTRKAECYRNHCLCIGPCPDDRPHKRFQMLNSSKNVKAQILS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82779",
+    "mature_sequence": "NTGCFDYDVYQPCDHCRERCLKYYPVTRKAICRKNHCVCIGPCPDDKAIPDVKLFKNVKEQILS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82781",
+    "mature_sequence": "RICKSRSQKFKGPCVSEDNCANVCHTEGFPDGDCDGLLRRCYCNTHC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82782",
+    "mature_sequence": "EVSPLDNKICKTRSDRFSGVCISTNNCAIICQQFEHFDGGHCEFDGAFRRCMCTKQC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82784",
+    "mature_sequence": "QQMCEAKSLDWKGMCLKWRNCRQVCISEGFTDGRCKGFTRKCICSKPCFVLPN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82785",
+    "mature_sequence": "QPQLCETKSLNYRGLCLKWRSCKRVCISEGFPDGRCKGFFNNKCVCRKPCALLSTEN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82790",
+    "mature_sequence": "EVRDICPGVCHAGIEPDCDTLCISMGFTGGYCQGLTCCCNPKSSKSSIINRPI",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82792",
+    "mature_sequence": "NFASGEASSQLCFNPCTPQLGNNECNTICMNKKYKEGSCVGFGIPPTSKYCCCKT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82793",
+    "mature_sequence": "LPSSVINGFGYDYCIVECSITFLDDACKPLCIDRGYSDGGCIGLSPHFKCCCKK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82794",
+    "mature_sequence": "RRVCDSAAGLCSMLFSCNTQCNSLGRNFTGGECSDARFPGLSVCYCCHNVESSAEMESM",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P82795",
+    "mature_sequence": "IDVHDAMCYRSECTSVCDQICLSHGYTNGWYCGTFRLHTGCCCLKKKELNQIISPSKN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P84963",
+    "mature_sequence": "RTCQSQSHKFKGACFSDTNCDSVCRTENFPRGQCNQHHVERKCYCERDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P84964",
+    "mature_sequence": "RTCQSQSHKFKGACFSDTNCASVCRTENFPRGQCNQHHVERKCYCERDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P84965",
+    "mature_sequence": "RDCESDSHKFHGACFSDTNCANVCQTEGFTAGKCVGVQRHCHCTKDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P84966",
+    "mature_sequence": "RECRSESKKFVGLCVSDTNCASVCLTERFPGGKCDGYRRCFCTKDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P84967",
+    "mature_sequence": "RDCRSQSKTFVGLCVSDTNCASVCLTEHFPGGKCDGYRRCFCTKDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P84968",
+    "mature_sequence": "RTCESQSHKFKGPCFSDSNCATVCRTENFPRGQCNQHHVERKCYCERSC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P84969",
+    "mature_sequence": "RECRSQSKQFVGLCVSDTNCASVCLTEHFPGGKCDGYRRCFCTKDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P84970",
+    "mature_sequence": "RDCKSDSHKFHGACFSDTNCANVCQTEGFTRGKCDGIHCHCIKDC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P84971",
+    "mature_sequence": "RDCTSQSHKFVGLCLSDRNCASVCLTEYFTGGKCDHRRCVCTKGC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P86518",
+    "mature_sequence": "RECQSQSHRYKGACVHDTNCASVCQTEGFSGGKCVGFRGRCFCTKAC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P86519",
+    "mature_sequence": "RECQSQSHRYKGACVHDTNCASVCQTEGFSGGKCVGFRGRCFCTKHC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q01783",
+    "mature_sequence": "NTCENLAGSYKGVCFGGCDRHCRTQEGAISGRCRDDFRCWCTKNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q01784",
+    "mature_sequence": "NTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHDWKCFCTQNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q07502",
+    "mature_sequence": "RVCESQSHGFHGLCNRDHNCALVCRNEGFSGGRCKRSRRCFCTRIC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q09198",
+    "mature_sequence": "RVCRRRSAGFKGLCMSDHNCAQVCLQEGWGGGNCDGVMRQCKCIRQC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q1G3Y1",
+    "mature_sequence": "HTTIASAPSSGEPTTYATGPALSKHSHDNDGICFVTPACFAPGQYEIGCIVYCHESHYKHYKCVNRSCCCYNTDKNASELK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V2Q4",
+    "mature_sequence": "LSNSDALASSVIETTKNDVCSTPCTIRYGTFECFQDCILDHFRDGNCINGRCCCKY",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V2W6",
+    "mature_sequence": "KHDSERKAPFSNHGMRLQHPPYLHFQSYRGHFIPEECTELCPQRCLRRHRLMVSCIPQHFCRCSSFQLSPPHIATSPKQYSKK",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V2W7",
+    "mature_sequence": "NSVEKDVMDGPCRLRGTCNNDGDCDKHCHRSTDAAAMDGHCLFDKPTGPVCCCLFD",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V2W8",
+    "mature_sequence": "TREILSAEICGWNDPAVHCKTKEDCFEKCGGRPAKKVFCVRPGDHSYDRLCCCRA",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V2Y3",
+    "mature_sequence": "QSSKCTKGCTSTPECNIKCMKKGGGHCQAYIGRSHGRLAIENYCCCNNYSNSPISSPVMN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V2Y6",
+    "mature_sequence": "FSVQIGISVQAAPPTCGRDCTEKFLTQDCDKYCVGLSYKKGVCILSEGLPPKTSTYRCCCS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V2Z3",
+    "mature_sequence": "TRIMDDSSDCVFKGPCQRRSDCYERCGLKPPSRAALCQPMGLQGRVCCCL",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V300",
+    "mature_sequence": "TVKSYSEEKTHSFDLTANPPIDLNIVDELPRDEHLGVSHADNVIGFCQECAHHCLQRKRVLGECRWFTCHCSRITIGVGL",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V304",
+    "mature_sequence": "NIMTKSISQVKSQFFSPALSPNVDPADEHIGHSPDDMKIIFCQQCAFHCIEKKKNIGNCENSICRCTLEDIL",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V305",
+    "mature_sequence": "FFKKLFLRASNIMIKSISEGKSQFSGPALSPNIDPADEHIGHSPEDMKIIFCQQCAFHCIEKKKNIAHCENSICRCTLEDIL",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V306",
+    "mature_sequence": "NIMTKSILEGKTQFSIPSLSSTIDPAYEHIGHFPDDMKIIFCQQCAFHCIEKKKNIPHCENSICRCTLENIL",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V310",
+    "mature_sequence": "MIMGVHYHEYRCHDWVDCAIWCKQWVPQPKCINRVCDCKPKSLPTNEEVPQSAYSSNSNY",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V321",
+    "mature_sequence": "SDSTLGIGINQDWKKCFSPDPCKKAGTQGCMEFCRTISFLLFGECTSKPDQCCCVTK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V322",
+    "mature_sequence": "SELDNTSGFEIKQEDKCYGPEPCKNGYEGCLFFCVRIAYYLYGECTMKPDHQKHCCCVTK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V325",
+    "mature_sequence": "LGTSPYCEKVLSRFAPPGNCLKKNGNALCKESCANEQFREGVCLHLPKPQSKLNCYCSVLKCP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V328",
+    "mature_sequence": "SGCNFKGSCRTDDQCKRICRGHGLDPSFQLCVPYSSKGGKCCCLHYEGAPLSSEVI",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V329",
+    "mature_sequence": "IVCNFEGHCVTSDDCINVCKSGEDPFLCVRSGPHKGMCCCLKTNGSVLE",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V334",
+    "mature_sequence": "RTQEHPCQDYRLGCKSRDVCNAKCLSLGYVKGGDCVTFAFPICCCKINFGFQDDSPISSPIFTD",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V337",
+    "mature_sequence": "FPASDQSIYARCIGPCPRYAVPHWCENECLSRKYMAGGECAFIEGEGPTPRCCCINL",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V352",
+    "mature_sequence": "TRIMDASSDCEFKGPCHKKEDCYDSCGVNKPPFNNAICVPGRDSFQCCCILS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V365",
+    "mature_sequence": "AEIKKFSYDHCFHLCVAGEYGSNECFVDCAQKGFWHGDCANRTEKDPIRCCCYN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V366",
+    "mature_sequence": "AETTKFSYDHCFHLCVEGEYGSRECFVDCTQKGFWHGVCANKTTAKDPIHCCCYN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V369",
+    "mature_sequence": "VVPSSFKRVEGPVTAASADFCYKCSRGCYRRYRRPVFCQGSICRCSSFIDDGY",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V370",
+    "mature_sequence": "KNKKVVIIPGPKGERPDIKVVEGPSTVEDDFCYDCVRRCMVKGVGFYFRSCKGFVCRCYYPFMGGYGP",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V390",
+    "mature_sequence": "RPSFKPIPLFGEKLTQCFDTRPCLQGMLKCIEFCSSMGTADGQCNNENLCCCTHE",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3D7",
+    "mature_sequence": "EDRSKLIPIGPCSKIANCNQTCIESQFLGGKCIKWYPDSIKETCACLVKPSITHV",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3H6",
+    "mature_sequence": "QSCNNDSDCTNLKCATKNIKCEQNKCQCLDERYIRAISLNTRSPRCNVQSCIDHCKAIGEVIYVCFTYHCYCRKPPM",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        8,
+        11
+      ],
+      [
+        9,
+        12
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3K0",
+    "mature_sequence": "LMDSMPQRHPVEGWCKRPLPNQKPGPCNNDRCSARCKEQKQFEFKGGKAMGICSSENRCLCTFRCR",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3K2",
+    "mature_sequence": "IITKTMNSKETIYLDNPAVSPSIDQNLVDIHLGHSFVQGVMSFCYDCGKACFRRGKNLARCQKFVCRCTISKLR",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3K4",
+    "mature_sequence": "IITKTMNSKETTYLDSPAVSPSIDQYLVDIHLGHSFLQGVMSFCYDCGKACFRRGKNLARCKKFVCRCTKSGIK",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3K7",
+    "mature_sequence": "IVMKSSNSKERTYPVTPALNPLTGQHSLRQRQLIFCDECANACFRRKKPVRSCQRFICRCAIRDVGY",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3L0",
+    "mature_sequence": "RTTTGGSPGYGIGGRTKTCFTPALCIYRGVHGCDSYCKTKNFDYGYCRQEHCCCVNY",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3Q1",
+    "mature_sequence": "RNRICRTSEKYYREFCGHAGNDDCLSKSTKKPKPFKCVCHDNRSQNITSINDRYNNCICTFYC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3R9",
+    "mature_sequence": "KSMVEVNAAHKWYIVEGLCSKFPDCNKHCKEQKFPGGTCLKLGVNMMCTCIYS",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3S0",
+    "mature_sequence": "KSMAKAQGGWYLVEGLCSKFPDCNKHCKEQGFLGGQCLKLGVNMLCFCIHT",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3S7",
+    "mature_sequence": "RELTGAGKKLEVATRSSNYAGTARTLLQARPCQRDVDCNFQCPRIQGGQCNNHHGTCDCF",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3S8",
+    "mature_sequence": "RELAGVNEIFEIAARSSNNAGTARALQQAPPCKRDVDCSFECPKGGFCNDRLGTCDCF",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3Y8",
+    "mature_sequence": "SDIKPTGRIDNQCKRMCSATYGNGKCAADCRSDGFSSGQCFTSPPFDNRCCCNN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V413",
+    "mature_sequence": "RMTTTTSPGFGIKQQDRQCFEHAPYLCRGGEGDCRMYCRDLDFSFGTCFSGVCCCQI",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V424",
+    "mature_sequence": "QTCFKGEAQEGVCVKVDGSKLCDLLCRATNTTWFGACEVEDNETHCHCYGPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V459",
+    "mature_sequence": "QLIVPCKTSEQCKSIRCSNGSAQCVNKQCQCPSLKQIYSVTDVSCKTVSDCVASHQCPTGLSACIEGKCICLP",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        8,
+        11
+      ],
+      [
+        9,
+        12
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V460",
+    "mature_sequence": "YCEKVRSKTAPRDVCKKSNGNALCKKTCWTIEKYVNGKCLILPKTTNLDCYCYHYDNGSACRA",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V462",
+    "mature_sequence": "YCERVRSRSAPHDICKKKNGNAVCKEKCWTIEKYQNGRCLILPKTTKLDCYCYHFDQC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V466",
+    "mature_sequence": "KKPPCLEGRTAYVSPGPCSNSLCTQDCRPAGYHTGKCKVEWSTPICKCYGCRKV",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V467",
+    "mature_sequence": "MRMTQKVSCIEGRTLWARPPKFFYCSSTLCEDNCINTGAYRGGTCDMEDEVAICRCHRCKKII",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V468",
+    "mature_sequence": "MSNGMPRTVPCIEGRILWNRTLPCSSILCGDHCVPHGYRAGTCDIVNDRAICKCSRCR",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V470",
+    "mature_sequence": "YQMLICLDLNISCADCQKQCDETSYGGMCLNGGRTCCCKKSPPPSYYDPRPPSS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V472",
+    "mature_sequence": "TSSTLKESLTAEIKPTKVDRCKTDRDCPQSHRCQKDFYYGCVVGECICRAV",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V476",
+    "mature_sequence": "LPMTHGGKPGYGIERTIIRPEWRCYVDEGCPKGQGAPCEKNCKNVADYGICIGIKCCCFDVIPVPPT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V485",
+    "mature_sequence": "YDRCIGPCLRFYGNHQCYKNCRKAKYDGGQCDFVKKGEKLPECCCYYNKN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V488",
+    "mature_sequence": "SDRTSGVGINQEYAKCYDLADCQKPKVDDAACERFCGAKSFLLYGKCDTATNKCCCKSKTK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4A5",
+    "mature_sequence": "EVLVAPVIETAQNDVCFVPCTSRYGHYECAFDCMHKRYKDGGCVHGRCCCKT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4A8",
+    "mature_sequence": "SSVIETTKNDVCSTPCTRRYGTYECWHDCLHERYNDGGCVDGRCCCKK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4C3",
+    "mature_sequence": "TDPVPTPPGLHIPCGKGFTSKECNKYCTGVGYRRGYCAPDEEYPQISSCYCKWRI",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4C4",
+    "mature_sequence": "DYKFHVCDPSFDEKDCDFECKEFGHPGGYCRPDRVQPRIRMCYCTDR",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4D5",
+    "mature_sequence": "IESPIFTGNKCSDPTGMDKDGKCLDYCHAQGYPGGSCIGFIDQGYMCVCKVG",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4D6",
+    "mature_sequence": "QNPRGRKCEDPNGVDQKAKCYIYCNEQGFLGGSCQGYTNHYMCECYVG",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4D7",
+    "mature_sequence": "QILTGIKCPDPNGHDKEDKCNIYCLNQNYMGGSCQGYKNHYMCECYVG",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4F3",
+    "mature_sequence": "KSMNPTGRRCPDPNGVEKKSMCYSSCKTQGFMGGSCQGHKGNYMCECYEG",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4G1",
+    "mature_sequence": "SYNIGQTRLVVIQEQEPHCIGPCEIAFGNRPCNEECTSQQYAYGFCDYQTKGEDNPQCCCYTS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4G3",
+    "mature_sequence": "SDGTSGYGITEATKRCFTPAPCTRGLFYCQTFCSSLSAVLIGVCESGICCCILNQ",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4G5",
+    "mature_sequence": "RTTTSGYGMLFDSVACEGGFEYCPRGGGNDKCTTFCRSLPNKYDFGVCDKIYACCCHINV",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4G6",
+    "mature_sequence": "KSPVSCDGACTSTPQCNKICTSKGYKKGICHGSAHLFYICCCYAKFESQYDPSISSPPNY",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4G9",
+    "mature_sequence": "SPEKYYDCKQDGCITTPPCWRKCVSMGYPKGGECRIYSYGGVCCCDLTSKPPN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4H7",
+    "mature_sequence": "NTGCFDYDVYQPCDHCRERCLKYYPVTRKAICRKNHCVCIGPCPNDKAIPNVKLFKNVKEQILS",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4I2",
+    "mature_sequence": "DASCLTTKECVVRCSDEDAQCIHGECHCPHLKVDIEPTKAIRCKTDLDCPDPHQCPKYDYYACLNNGECTCISV",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        8,
+        11
+      ],
+      [
+        9,
+        12
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4I8",
+    "mature_sequence": "KDIDGRKPLLIGTCIEFPTEKCNKTCIESNFAGGKCVHIGQSLDFVCVCFPKYYI",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4I9",
+    "mature_sequence": "KIVKRMQVGPSECVYRGRCRDSYECRSRCGPPEFSHETLGLCMFDYDDYEYFCCCTTNY",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4J5",
+    "mature_sequence": "SEIKPTGRIDDQCKQMCSATYGDGKCASDCRKAGFSSGRCLTSSPFGNKCCCTK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4L5",
+    "mature_sequence": "YDLFSEIGISAATLVIPTCFENCNATFQDPECNKWCALLAYKDGSCLYPPSEVDDLPPIKRPYIPRCCCNPITLSPPSP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4N0",
+    "mature_sequence": "RSTSDIVSGSGIKEDEHVCFKTSPCLPEVGGEKGCIAFCSRMKFTTGLCLGSVVCCCYT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V4N2",
+    "mature_sequence": "RETRMMEQTCPVFWPMVPCDANKCEQMCRDYYGSVPSYCNRIGTPIAECACSLTPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q39313",
+    "mature_sequence": "KLCERSSGTWSGVCGNNNACKNQCIRLEGAQHGSCNYVFPAHKCICYFPC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q3E6U0",
+    "mature_sequence": "SCDFPLGACTPFRDCKESCIKFKTRAGQTFFDGKCRPRDRPSVWTACFCCYYDSIGAQ",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q3E715",
+    "mature_sequence": "QFRCKSVAECDSRGCRVGTHVICNEHHICTCAHGSPIGGQCDGVEDCDLSGCPPNSHVICDRIGGNFCTCVPN",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        8,
+        11
+      ],
+      [
+        9,
+        12
+      ]
+    ]
+  },
+  {
+    "accession": "Q3E8I8",
+    "mature_sequence": "SDSALGIGIKEDWEVCFSIDPCLTGEGTLGCTKWCRNHINLSLVGYCRTDPEHCCCVAEK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q3EBU2",
+    "mature_sequence": "VEMGISVQALPPTCGPDCTGRFMNQDCSKYCAALSYKHGVCILFRGLPPRTSTLRCCCG",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q40901",
+    "mature_sequence": "RTCESQSHRFHGTCVRESNCASVCQTEGFIGGNCRAFRRRCFCTRNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q42330",
+    "mature_sequence": "YDRKCLKEYGGDVGFSYCAPRIFPTFCDQNCRKNKGAKGGVCRWEENNAIGVKCLCNFCSEEPSDQTLSRI",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q4VNZ5",
+    "mature_sequence": "ELVLPCKTTYDCVNLPCLGRPPLCINGQCKCTTTLTHQAKLDNLRTMNDAKTCKYTSDCDPRMRYSCVSGSYICLNGFCTCT",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        8,
+        11
+      ],
+      [
+        9,
+        12
+      ]
+    ]
+  },
+  {
+    "accession": "Q4VNZ6",
+    "mature_sequence": "HNFLPCVITNDCEYHHCSSGTVLCVNRQCHCSRSSTHQTKLDNLKKMDYAKKCKWTKDCDPRMRFTCVSGSYMCFDGLCTCTN",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        8,
+        11
+      ],
+      [
+        9,
+        12
+      ]
+    ]
+  },
+  {
+    "accession": "Q4VNZ8",
+    "mature_sequence": "LSNSDILVSSVIETSKYDVCFIPCTRRYEDRECNDDCLAKDFNDGGCVDGRCCCKY",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q4VNZ9",
+    "mature_sequence": "DVLVSSVIETSKNDVCFIPCTRRYGDWECYDDCLGKNFNDGGCVDGRCCCKK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q4VP04",
+    "mature_sequence": "MIMGVSYHENRCHDWVDCAIWCKQWVPQPKCINRVCDCKPKSLPTNDEIPKSASSSSKN",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q4VP07",
+    "mature_sequence": "ILINESSDEQRIYSFSPTTSPFDPRSLNQELKIGRIGYCFDCARACMRRGKYIRTCSFERKLCRCSISGIK",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q6NMS3",
+    "mature_sequence": "WGKCDLRKGLCRLADTISTCDVPCRAVDSKYHGGECLNVGGGQGICWCCRDYDAAKSGAEKESM",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q7M1F2",
+    "mature_sequence": "NLCERASLTWTGNCGNTGHCDTQCRNWESAKHGACHKRGNWKCFCYFNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q7M1F3",
+    "mature_sequence": "LCNERPSQTWSGNCGNTAHCDKQCQDWEKASHGACHKRENHWKCFCYFNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q8GXR4",
+    "mature_sequence": "LPTTARSPGYEIGPQRRRRVTCFSFSFCKPARGLASCDLFCKRLKFESGLCTGDLEKCCCIDYIN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q8GXV6",
+    "mature_sequence": "LISDKCTEGCKSTIGCNTRCMMRGGGYCESAKIHGAVKIFCCCNNYSNSPISSPVIN",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q8GY39",
+    "mature_sequence": "ESVIEPAKYGACLFLCDARRDDHACFYDCTNVAIYRTGHCVGNPPRCCCIRG",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q8L7G7",
+    "mature_sequence": "RQVCDYDKGECNSYEKSSTCIEPCKQLDSKFIGGRCIPVGGITGMGLCVCCRDVQRGAEKESM",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q8LFM0",
+    "mature_sequence": "ADIKRCVVDVKLSKPCTFQECIPLCFQRYNGNGVCTGKKNEICTCAYNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q8S8H3",
+    "mature_sequence": "NEGLGKPKKQCNEILKQSNCVAAECDSMCVKKRGKGAGYCSPSKKCYCYYHCP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q8S8H9",
+    "mature_sequence": "MVNGQCSFPQPVGPNGKCVPKDCKSLCHKKYKGGSICTTGKPNICMCLVCRRRSPEV",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q94AZ8",
+    "mature_sequence": "RLVCDTPAGTCTSSSTCNDQCNTWGGNYSGGECADSSFPGLSICYCCHYVGSSAEMESM",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9AVE2",
+    "mature_sequence": "QKNKCMRSEMFPTGPCGNNGEETCKKDFKNIYRTPIQCKCLDKYDFARLCDCRFC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9AVE3",
+    "mature_sequence": "MEDQKWKKVCNLEGNFPGRCVGNGDEQCKRDLTEDGNNPSKCRCRFRAGRRHCRCIYCEVFGM",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9FL73",
+    "mature_sequence": "YDLFTGIGIDARTVPPTCYESCNATFQNPECNKMCVGLAYKDGSCIYPPPEVDGLPPKRPYFPRCCCNPIILSPPSP",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9LV55",
+    "mature_sequence": "RKLTGVADVIVEGEAASPQYGIIDENDTLNKSPSCKRDIDCTFQCRRGGFCNLILQKCECL",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q9M0F1",
+    "mature_sequence": "EECRLTIDKATPCHLSDCRLSCYTGYNGVGECFDDPNVPGPDNCGCRYNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9M0F2",
+    "mature_sequence": "DEGKRCHTTIDKGNFCDLVDCRLSCFSGYNGVGKCFDDPKVPGRSNCGCLYNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9M0F3",
+    "mature_sequence": "DERCTIIIHPGSPCDPSDCVQYCYAEYNGVGKCIASKPGRSANCMCTYNC",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9M833",
+    "mature_sequence": "SEIKPTGRVDNQCKEMCSATFGDGKCAADCRKAGFSSGRCLTSSPFGNKCCCT",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9SL74",
+    "mature_sequence": "RSNGIYDPMCPGVCGNLVKPDCNGLCHELGFPAGGYCKPGNTCCCKKKDSGPVDVPPTA",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q9T0E3",
+    "mature_sequence": "QAPSTCFEALKDASKGASCDSELCASLCKKKSGGGVGTCRTKTTQPSKGQPECHCRFWCKSDGTPYK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P0CAY1",
+    "mature_sequence": "MNWELCDDYPSKAPPETCNKVDGARRCRTSCNNEGYGGANCNLKGKVKVCECTILRVCLPHHKRPPHVPKPPK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "P0CAY4",
+    "mature_sequence": "FSPEDCLDDVGWILICTKPTCKFSCWTSRSVNKGRKMQDYWCSDSNTCHCVFCTGD",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q0WN71",
+    "mature_sequence": "MRPRSRAGDKFMSQGQELCHEYFQLTAPCEKQPCIDMCSSKYKTGKGVCGPAVHQCFCTFSCTV",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V2S9",
+    "mature_sequence": "MKLSILVKAMKRNNGFRYDYCIAECSEHFLDDVCKPVCIDKGYSDGGCIGLAPNFKCCCKK",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "accession": "Q2V3W5",
+    "mature_sequence": "MLRFVLVYIPVSVVSHTLCISLFIICSTRHTCFSKRYTCLLNICFCFFISSRIRNYF",
+    "pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "accession": "Q3E8B0",
+    "mature_sequence": "MTQGKRKHPCDLKNPSKRAPPATCNKPNGAILCGDFCLHEGYNIGKCVMRRTGKACICSQCEGW",
+    "pairs": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  }
+]

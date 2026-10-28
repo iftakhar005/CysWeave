@@ -1,0 +1,254 @@
+{
+  "pep0001": {
+    "label": "SP1",
+    "sequence": "SYVGDCGSNGGSCVSSYCPYGNRLNYFCPLGRTCCRRSYG",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  "pep0002": {
+    "label": "SP1",
+    "sequence": "GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIWG",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "pep0003": {
+    "label": "SP1",
+    "sequence": "GRKSDCFRKNGFCAFLKCPYLTLISGKCSRFHLCCKRIWG",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "pep0004": {
+    "label": "SP1",
+    "sequence": "SFGLCRLRRGFCAHGRCRFPSIPIGRCSRFVQCCRRVW",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "pep0005": {
+    "label": "SP1",
+    "sequence": "GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIR",
+    "intended_pairs": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "pep0006": {
+    "label": "SP2",
+    "sequence": "EFELDRICGYGTARCRKKCRSQEYRIGRCPNTYACCLRKWDESLLNRTKP",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "pep0007": {
+    "label": "SP2",
+    "sequence": "MFGNDGVKVRTCTSQKAVCFFGCPPGYRWIAFCHNILSCCKNMTRFQPPQAKDPWVH",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "pep0008": {
+    "label": "SP2",
+    "sequence": "QVTPVMKCWGKSGRCRTTCKESEVYYILCKTEAKCCVDPKYVPVKPKLTDTNTSLESTSAV",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  },
+  "pep0009": {
+    "label": "SP2",
+    "sequence": "GLDFSQPFPSGEFAVFESCKFSRGKCRKECLENEKPDGNCRLNFLCCRQSI",
+    "intended_pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  "pep0010": {
+    "label": "SP3",
+    "sequence": "QKKCPGRCTLKCGKHERPTLPYNCGKYICCVPVKVK",
+    "intended_pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  "pep0011": {
+    "label": "SP3",
+    "sequence": "QKKGFCAGYCSYSCAKTDEWTFHQTCGKMYCCIPPPKKG",
+    "intended_pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  "pep0012": {
+    "label": "SP4",
+    "sequence": "QVRKYCPKVGYCSSKCSKADVWSLSSDCKFYCCLPPGWK",
+    "intended_pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  "pep0013": {
+    "label": "SP4",
+    "sequence": "QVLKYCPKIGYCSSKCSKAEVWAYSPDCKVHCCVPANQKW",
+    "intended_pairs": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ]
+  },
+  "pep0014": {
+    "label": "SP4",
+    "sequence": "YGLVLKYCPKIGYCSNTCSKTQIWATSHGCKMYCCLPASWKWK",
+    "intended_pairs": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ]
+  }
+}
